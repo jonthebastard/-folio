@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "BLACK LIGHT BURNS"
 uid: black-light-burns-40
 price: "$40"

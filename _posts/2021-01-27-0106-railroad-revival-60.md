@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "RAILROAD REVIVAL"
 uid: railroad-revival-60
 price: "$60"

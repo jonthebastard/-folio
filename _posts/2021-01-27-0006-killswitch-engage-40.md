@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "KILLSWITCH ENGAGE"
 uid: killswitch-engage-40
 price: "$40"

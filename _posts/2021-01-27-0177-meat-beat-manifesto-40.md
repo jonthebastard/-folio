@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "MEAT BEAT MANIFESTO"
 uid: meat-beat-manifesto-40
 price: "$40"

@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THE DRESDEN DOLLS"
 uid: the-dresden-dolls-40
 price: "$40"

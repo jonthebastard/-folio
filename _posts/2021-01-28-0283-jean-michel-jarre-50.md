@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "JEAN-MICHEL JARRE"
 uid: jean-michel-jarre-50
 price: "$50"

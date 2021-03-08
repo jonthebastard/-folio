@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "DROPKICK MURPHYS"
 uid: dropkick-murphys-40
 price: "$40"

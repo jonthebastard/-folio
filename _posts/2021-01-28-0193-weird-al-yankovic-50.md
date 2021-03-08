@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "'WEIRD AL' YANKOVIC"
 uid: weird-al-yankovic-50
 price: "$50"

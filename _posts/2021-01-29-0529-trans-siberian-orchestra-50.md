@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "TRANS-SIBERIAN ORCHESTRA"
 uid: trans-siberian-orchestra-50
 price: "$50"

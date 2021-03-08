@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "RODRIGO Y GABRIELA"
 uid: rodrigo-y-gabriela-40
 price: "$40"

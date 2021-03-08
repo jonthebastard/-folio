@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THE WORLD/INFERNO FRIENDSHIP SOCIETY"
 uid: the-worldinferno-friendship-society-40
 price: "$40"

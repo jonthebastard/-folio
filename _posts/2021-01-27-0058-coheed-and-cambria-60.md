@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "COHEED AND CAMBRIA"
 uid: coheed-and-cambria-60
 price: "$60"

@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THE LEGENDARY PINK DOTS"
 uid: the-legendary-pink-dots-40
 price: "$40"

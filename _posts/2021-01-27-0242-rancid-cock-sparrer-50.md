@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "RANCID / COCK SPARRER"
 uid: rancid-cock-sparrer-50
 price: "$50"

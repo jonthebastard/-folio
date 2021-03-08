@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "FESTIVAL OF THE GOLDEN GATE"
 uid: festival-of-the-golden-gate-40
 price: "$40"

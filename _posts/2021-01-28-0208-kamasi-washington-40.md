@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "KAMASI WASHINGTON"
 uid: kamasi-washington-40
 price: "$40"

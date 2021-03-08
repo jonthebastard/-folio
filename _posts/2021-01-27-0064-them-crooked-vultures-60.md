@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THEM CROOKED VULTURES"
 uid: them-crooked-vultures-60
 price: "$60"

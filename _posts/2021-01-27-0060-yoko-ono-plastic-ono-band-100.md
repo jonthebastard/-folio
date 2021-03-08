@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "YOKO ONO & PLASTIC ONO BAND"
 uid: yoko-ono-plastic-ono-band-100
 price: "$100"

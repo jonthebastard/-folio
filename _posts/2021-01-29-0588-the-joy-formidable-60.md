@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THE JOY FORMIDABLE"
 uid: the-joy-formidable-60
 price: "$60"

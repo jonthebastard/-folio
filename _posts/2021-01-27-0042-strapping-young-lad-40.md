@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "STRAPPING YOUNG LAD"
 uid: strapping-young-lad-40
 price: "$40"

@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "NEUTRAL MILK HOTEL"
 uid: neutral-milk-hotel-60
 price: "$60"

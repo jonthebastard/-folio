@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "JONATHAN COULTON"
 uid: jonathan-coulton-40
 price: "$40"

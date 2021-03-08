@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THE WHITE STRIPES"
 uid: the-white-stripes-30
 price: "$30"

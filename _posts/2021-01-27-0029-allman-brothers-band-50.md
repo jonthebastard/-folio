@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "ALLMAN BROTHERS BAND"
 uid: allman-brothers-band-50
 price: "$50"

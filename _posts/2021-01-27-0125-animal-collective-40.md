@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "ANIMAL COLLECTIVE"
 uid: animal-collective-40
 price: "$40"

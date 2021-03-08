@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "HARDLY STRICTLY BLUEGRASS"
 uid: hardly-strictly-bluegrass-40
 price: "$40"

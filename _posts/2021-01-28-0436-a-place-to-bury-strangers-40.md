@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "A PLACE TO BURY STRANGERS"
 uid: a-place-to-bury-strangers-40
 price: "$40"

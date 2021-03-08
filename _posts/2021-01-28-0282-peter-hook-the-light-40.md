@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "PETER HOOK & THE LIGHT"
 uid: peter-hook-the-light-40
 price: "$40"

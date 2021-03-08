@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "MAYNARD JAMES KEENAN"
 uid: maynard-james-keenan-60
 price: "$60"

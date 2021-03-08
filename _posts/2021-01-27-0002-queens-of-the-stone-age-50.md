@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "QUEENS OF THE STONE AGE"
 uid: queens-of-the-stone-age-50
 price: "$50"

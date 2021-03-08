@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "TREASURE ISLAND MUSIC FESTIVAL"
 uid: treasure-island-music-festival-50
 price: "$50"

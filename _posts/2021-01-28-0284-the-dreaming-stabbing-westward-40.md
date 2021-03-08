@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THE DREAMING (STABBING WESTWARD)"
 uid: the-dreaming-stabbing-westward-40
 price: "$40"

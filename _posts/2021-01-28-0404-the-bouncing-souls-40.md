@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THE BOUNCING SOULS"
 uid: the-bouncing-souls-40
 price: "$40"

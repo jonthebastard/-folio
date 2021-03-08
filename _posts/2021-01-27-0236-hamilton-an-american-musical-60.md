@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "HAMILTON: AN AMERICAN MUSICAL"
 uid: hamilton-an-american-musical-60
 price: "$60"

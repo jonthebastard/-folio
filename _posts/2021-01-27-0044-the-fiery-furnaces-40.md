@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THE FIERY FURNACES"
 uid: the-fiery-furnaces-40
 price: "$40"

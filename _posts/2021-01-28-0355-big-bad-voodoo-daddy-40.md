@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "BIG BAD VOODOO DADDY"
 uid: big-bad-voodoo-daddy-40
 price: "$40"

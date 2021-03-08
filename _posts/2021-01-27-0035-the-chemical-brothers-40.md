@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THE CHEMICAL BROTHERS"
 uid: the-chemical-brothers-40
 price: "$40"

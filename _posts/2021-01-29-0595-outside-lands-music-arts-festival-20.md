@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "OUTSIDE LANDS MUSIC & ARTS FESTIVAL"
 uid: outside-lands-music-arts-festival-20
 price: "$20"

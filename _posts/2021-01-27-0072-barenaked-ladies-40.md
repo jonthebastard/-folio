@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "BARENAKED LADIES"
 uid: barenaked-ladies-40
 price: "$40"

@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "WALK OFF THE EARTH"
 uid: walk-off-the-earth-40
 price: "$40"

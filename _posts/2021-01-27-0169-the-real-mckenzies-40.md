@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THE REAL MCKENZIES"
 uid: the-real-mckenzies-40
 price: "$40"

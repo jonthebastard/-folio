@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "SHE WANTS REVENGE"
 uid: she-wants-revenge-40
 price: "$40"

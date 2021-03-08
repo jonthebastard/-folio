@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THROBBING GRISTLE"
 uid: throbbing-gristle-60
 price: "$60"

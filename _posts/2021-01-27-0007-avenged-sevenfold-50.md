@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "AVENGED SEVENFOLD"
 uid: avenged-sevenfold-50
 price: "$50"

@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "BUTTHOLE SURFERS"
 uid: butthole-surfers-40
 price: "$40"

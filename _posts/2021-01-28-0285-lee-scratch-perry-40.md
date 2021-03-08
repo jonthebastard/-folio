@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "LEE 'SCRATCH' PERRY"
 uid: lee-scratch-perry-40
 price: "$40"

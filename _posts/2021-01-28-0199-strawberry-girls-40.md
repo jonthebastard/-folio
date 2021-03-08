@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "STRAWBERRY GIRLS"
 uid: strawberry-girls-40
 price: "$40"

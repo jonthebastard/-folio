@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "BÉLA FLECK & THE FLECKTONES"
 uid: béla-fleck-the-flecktones-40
 price: "$40"

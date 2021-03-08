@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "BOSNIAN RAINBOWS (OMAR RODRIGUEZ-LOPEZ GROUP)"
 price: "$40"
 uid: bosnian-rainbows-omar-rodriguez-lopez-group

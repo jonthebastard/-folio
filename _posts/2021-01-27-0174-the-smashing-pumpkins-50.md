@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THE SMASHING PUMPKINS"
 uid: the-smashing-pumpkins-50
 price: "$50"

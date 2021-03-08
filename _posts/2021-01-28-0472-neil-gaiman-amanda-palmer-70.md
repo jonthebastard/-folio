@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "NEIL GAIMAN & AMANDA PALMER"
 uid: neil-gaiman-amanda-palmer-70
 price: "$70"

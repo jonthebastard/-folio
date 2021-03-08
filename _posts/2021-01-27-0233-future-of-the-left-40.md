@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "FUTURE OF THE LEFT"
 uid: future-of-the-left-40
 price: "$40"

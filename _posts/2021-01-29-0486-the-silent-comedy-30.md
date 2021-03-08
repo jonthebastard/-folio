@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THE SILENT COMEDY"
 uid: the-silent-comedy-30
 price: "$30"

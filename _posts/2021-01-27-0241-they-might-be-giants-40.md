@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THEY MIGHT BE GIANTS"
 uid: they-might-be-giants-40
 price: "$40"

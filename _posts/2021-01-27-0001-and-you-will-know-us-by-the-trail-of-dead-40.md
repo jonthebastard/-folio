@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "...AND YOU WILL KNOW US BY THE TRAIL OF DEAD"
 uid: and-you-will-know-us-by-the-trail-of-dead-40
 price: "$40"

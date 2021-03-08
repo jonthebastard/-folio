@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "UNDERCOVER PRESENTS"
 uid: undercover-presents-20
 price: "$20"

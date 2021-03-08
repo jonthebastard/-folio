@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "DEVIN TOWNSEND PROJECT"
 uid: devin-townsend-project-40
 price: "$40"

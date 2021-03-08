@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THE FEROCIOUS FEW"
 uid: the-ferocious-few-30
 price: "$30"

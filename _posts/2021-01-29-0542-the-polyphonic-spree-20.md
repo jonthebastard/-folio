@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THE POLYPHONIC SPREE"
 uid: the-polyphonic-spree-20
 price: "$20"

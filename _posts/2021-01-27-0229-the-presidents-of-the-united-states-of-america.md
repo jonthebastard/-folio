@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THE PRESIDENTS OF THE UNITED STATES OF AMERICA"
 price: "$50"
 uid: the-presidents-of-the-united-states-of-america

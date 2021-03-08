@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "TOM MORELLO (RAGE AGAINST THE MACHINE): THE NIGHTWATCHMAN"
 price: "$40"
 uid: tom-morello-rage-against-the-machine-the

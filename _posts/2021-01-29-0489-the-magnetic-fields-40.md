@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THE MAGNETIC FIELDS"
 uid: the-magnetic-fields-40
 price: "$40"

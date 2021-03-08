@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THE JESUS AND MARY CHAIN"
 uid: the-jesus-and-mary-chain-40
 price: "$40"

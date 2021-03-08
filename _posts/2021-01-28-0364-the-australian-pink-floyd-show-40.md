@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THE AUSTRALIAN PINK FLOYD SHOW"
 uid: the-australian-pink-floyd-show-40
 price: "$40"

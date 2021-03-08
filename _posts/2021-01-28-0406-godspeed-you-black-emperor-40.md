@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "GODSPEED YOU! BLACK EMPEROR"
 uid: godspeed-you-black-emperor-40
 price: "$40"

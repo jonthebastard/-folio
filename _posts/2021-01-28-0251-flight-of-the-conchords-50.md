@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "FLIGHT OF THE CONCHORDS"
 uid: flight-of-the-conchords-50
 price: "$50"

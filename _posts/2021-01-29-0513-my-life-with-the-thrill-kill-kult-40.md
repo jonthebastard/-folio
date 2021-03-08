@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "MY LIFE WITH THE THRILL KILL KULT"
 uid: my-life-with-the-thrill-kill-kult-40
 price: "$40"

@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "JAKE SHIMABUKURO"
 uid: jake-shimabukuro-40
 price: "$40"

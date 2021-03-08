@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "I'M FROM BARCELONA"
 uid: im-from-barcelona-25
 price: "$25"

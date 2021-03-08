@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "KNEEDELUS (KNEEBODY + DAEDELUS)"
 uid: kneedelus-kneebody-daedelus-40
 price: "$40"

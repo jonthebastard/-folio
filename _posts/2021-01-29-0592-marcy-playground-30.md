@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "MARCY PLAYGROUND"
 uid: marcy-playground-30
 price: "$30"

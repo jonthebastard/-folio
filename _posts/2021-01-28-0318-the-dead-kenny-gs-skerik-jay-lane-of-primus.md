@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THE DEAD KENNY G'S (SKERIK + JAY LANE OF PRIMUS)"
 price: "$40"
 uid: the-dead-kenny-gs-skerik-jay-lane-of-primus

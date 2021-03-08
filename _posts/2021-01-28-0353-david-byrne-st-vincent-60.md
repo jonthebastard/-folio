@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "DAVID BYRNE + ST. VINCENT"
 uid: david-byrne-st-vincent-60
 price: "$60"

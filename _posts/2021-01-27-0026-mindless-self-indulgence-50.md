@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "MINDLESS SELF INDULGENCE"
 uid: mindless-self-indulgence-50
 price: "$50"

@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "ANTONY AND THE JOHNSONS"
 uid: antony-and-the-johnsons-40
 price: "$40"

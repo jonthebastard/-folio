@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "IGGY POP AND THE STOOGES"
 uid: iggy-pop-and-the-stooges-50
 price: "$50"

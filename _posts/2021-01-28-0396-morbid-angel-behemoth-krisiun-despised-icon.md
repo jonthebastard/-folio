@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "MORBID ANGEL / BEHEMOTH / KRISIUN / DESPISED ICON"
 price: "$40"
 uid: morbid-angel-behemoth-krisiun-despised-icon

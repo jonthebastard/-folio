@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "ECHO & THE BUNNYMEN"
 uid: echo-the-bunnymen-40
 price: "$40"

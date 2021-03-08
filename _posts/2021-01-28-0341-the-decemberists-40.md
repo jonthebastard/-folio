@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THE DECEMBERISTS"
 uid: the-decemberists-40
 price: "$40"

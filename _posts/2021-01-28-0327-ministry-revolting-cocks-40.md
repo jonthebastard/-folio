@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "MINISTRY / REVOLTING COCKS"
 uid: ministry-revolting-cocks-40
 price: "$40"

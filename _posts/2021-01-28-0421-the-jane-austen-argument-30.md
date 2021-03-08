@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THE JANE AUSTEN ARGUMENT"
 uid: the-jane-austen-argument-30
 price: "$30"

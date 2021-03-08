@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "INFECTED MUSHROOM"
 uid: infected-mushroom-40
 price: "$40"

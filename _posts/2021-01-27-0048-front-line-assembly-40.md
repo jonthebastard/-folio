@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "FRONT LINE ASSEMBLY"
 uid: front-line-assembly-40
 price: "$40"

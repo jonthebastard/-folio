@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "FLORENCE + THE MACHINE"
 uid: florence-the-machine-50
 price: "$50"

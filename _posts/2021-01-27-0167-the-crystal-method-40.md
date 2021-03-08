@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THE CRYSTAL METHOD"
 uid: the-crystal-method-40
 price: "$40"

@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THE JON SPENCER BLUES EXPLOSION"
 uid: the-jon-spencer-blues-explosion-40
 price: "$40"

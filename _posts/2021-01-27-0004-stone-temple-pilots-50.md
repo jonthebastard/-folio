@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "STONE TEMPLE PILOTS"
 uid: stone-temple-pilots-50
 price: "$50"

@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "GLEN HANSARD (THE SWELL SEASON / THE FRAMES)"
 uid: glen-hansard-the-swell-season-the-frames-40
 price: "$40"

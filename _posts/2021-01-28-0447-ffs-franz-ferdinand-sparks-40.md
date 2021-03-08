@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "FFS (FRANZ FERDINAND + SPARKS)"
 uid: ffs-franz-ferdinand-sparks-40
 price: "$40"

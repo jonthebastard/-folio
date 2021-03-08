@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "CINQUANTA: 50 YEARS OF MAYNARD JAMES KEENAN"
 uid: cinquanta-50-years-of-maynard-james-keenan-100
 price: "$100"

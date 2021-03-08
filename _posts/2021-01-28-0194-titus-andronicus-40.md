@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "TITUS ANDRONICUS"
 uid: titus-andronicus-40
 price: "$40"

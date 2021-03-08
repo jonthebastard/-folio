@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "LOREENA MCKENNITT"
 uid: loreena-mckennitt-40
 price: "$40"

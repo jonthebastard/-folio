@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "THAT 1 GUY AND THE MAGIC PIPE"
 uid: that-1-guy-and-the-magic-pipe-40
 price: "$40"

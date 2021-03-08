@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "JOHN 5 & THE CREATURES"
 uid: john-5-the-creatures-40
 price: "$40"

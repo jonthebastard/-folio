@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "HOW TO DESTROY ANGELS"
 uid: how-to-destroy-angels-70
 price: "$70"

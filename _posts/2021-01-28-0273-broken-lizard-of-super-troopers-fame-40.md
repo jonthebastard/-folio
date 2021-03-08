@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "BROKEN LIZARD (OF SUPER TROOPERS FAME)"
 uid: broken-lizard-of-super-troopers-fame-40
 price: "$40"

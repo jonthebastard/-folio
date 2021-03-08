@@ -1,5 +1,5 @@
 ---
-layout: post-narrow
+layout: post
 title: "PUBLIC SERVICE BROADCASTING"
 uid: public-service-broadcasting-40
 price: "$40"

@@ -1,0 +1,1450 @@
+[
+	{
+		"bandshort": "16Volt",
+		"bandlong": "16 Volt"
+	},
+	{
+		"bandshort": "ACDC",
+		"bandlong": "AC/DC"
+	},
+	{
+		"bandshort": "AFPandtheGTO",
+		"bandlong": "Amanda Palmer and the Grand Theft Orchestra"
+	},
+	{
+		"bandshort": "APerfectCircle",
+		"bandlong": "A Perfect Circle"
+	},
+	{
+		"bandshort": "APlaceToBuryStrangers",
+		"bandlong": "A Place To Bury Strangers"
+	},
+	{
+		"bandshort": "Air",
+		"bandlong": "Air"
+	},
+	{
+		"bandshort": "AkronFamily",
+		"bandlong": "Akron/Family"
+	},
+	{
+		"bandshort": "Algiers",
+		"bandlong": "Algiers"
+	},
+	{
+		"bandshort": "AliceCooper",
+		"bandlong": "Alice Cooper"
+	},
+	{
+		"bandshort": "AliceInChains",
+		"bandlong": "Alice In Chains"
+	},
+	{
+		"bandshort": "AllLeather",
+		"bandlong": "All Leather"
+	},
+	{
+		"bandshort": "AmonAmarth",
+		"bandlong": "Amon Amarth"
+	},
+	{
+		"bandshort": "Anamanaguchi",
+		"bandlong": "Anamanaguchi"
+	},
+	{
+		"bandshort": "AndSoIWatchYouFromAfar",
+		"bandlong": "And So I Watch You From Afar"
+	},
+	{
+		"bandshort": "AndrewWK",
+		"bandlong": "Andrew WK"
+	},
+	{
+		"bandshort": "AnimalCollective",
+		"bandlong": "Animal Collective"
+	},
+	{
+		"bandshort": "Antemasque",
+		"bandlong": "ANTEMASQUE"
+	},
+	{
+		"bandshort": "Apocalyptica",
+		"bandlong": "Apocalyptica"
+	},
+	{
+		"bandshort": "ArcadeFire",
+		"bandlong": "Arcade Fire"
+	},
+	{
+		"bandshort": "ArnoCorps",
+		"bandlong": "ArnoCorps"
+	},
+	{
+		"bandshort": "ArtBrut",
+		"bandlong": "Art Brut"
+	},
+	{
+		"bandshort": "AtTheDriveIn",
+		"bandlong": "At The Drive-In"
+	},
+	{
+		"bandshort": "AtomsForPeace",
+		"bandlong": "Atoms For Peace"
+	},
+	{
+		"bandshort": "Autolux",
+		"bandlong": "Autolux"
+	},
+	{
+		"bandshort": "BarenakedLadies",
+		"bandlong": "Barenaked Ladies"
+	},
+	{
+		"bandshort": "Baroness",
+		"bandlong": "Baroness"
+	},
+	{
+		"bandshort": "BeachHouse",
+		"bandlong": "Beach House"
+	},
+	{
+		"bandshort": "Beck",
+		"bandlong": "Beck"
+	},
+	{
+		"bandshort": "BelaFleck",
+		"bandlong": "Béla Fleck"
+	},
+	{
+		"bandshort": "BelleAndSebastian",
+		"bandlong": "Belle and Sebastian"
+	},
+	{
+		"bandshort": "BentKnee",
+		"bandlong": "Bent Knee"
+	},
+	{
+		"bandshort": "BigAudioDynamite",
+		"bandlong": "Big Audio Dynamite"
+	},
+	{
+		"bandshort": "BigBadVoodooDaddy",
+		"bandlong": "Big Bad Voodoo Daddy"
+	},
+	{
+		"bandshort": "BigBlackDelta",
+		"bandlong": "Big Black Delta"
+	},
+	{
+		"bandshort": "Blackfield",
+		"bandlong": "Blackfield"
+	},
+	{
+		"bandshort": "BobbyJoeEbola",
+		"bandlong": "Bobby Joe Ebola and the Children MacNuggits"
+	},
+	{
+		"bandshort": "BonIver",
+		"bandlong": "Bon Iver"
+	},
+	{
+		"bandshort": "BouncingSouls",
+		"bandlong": "Bouncing Souls"
+	},
+	{
+                "bandshort": "BrandNew",
+                "bandlong": "Brand New"
+        },
+        {
+		"bandshort": "BrightEyes",
+		"bandlong": "Bright Eyes"
+	},
+	{
+		"bandshort": "BrokenBells",
+		"bandlong": "Broken Bells"
+	},
+	{
+		"bandshort": "BuiltToSpill",
+		"bandlong": "Built To Spill"
+	},
+	{
+		"bandshort": "Bush",
+		"bandlong": "Bush"
+	},
+	{
+		"bandshort": "ButtholeSurfers",
+		"bandlong": "Butthole Surfers"
+	},
+	{
+		"bandshort": "Buzzcocks",
+		"bandlong": "Buzzcocks"
+	},
+	{
+		"bandshort": "CHT",
+		"bandlong": "CHT"
+	},
+	{
+		"bandshort": "Calexico",
+		"bandlong": "Calexico"
+	},
+	{
+		"bandshort": "CaravanPalace",
+		"bandlong": "Caravan Palace"
+	},
+	{
+		"bandshort": "CarinaRound",
+		"bandlong": "Carina Round"
+	},
+	{
+		"bandshort": "Ceremony",
+		"bandlong": "Ceremony"
+	},
+	{
+		"bandshort": "ChelseaWolfe",
+		"bandlong": "Chelsea Wolfe"
+	},
+	{
+		"bandshort": "Chromeo",
+		"bandlong": "Chromeo"
+	},
+	{
+		"bandshort": "Cinquanta",
+		"bandlong": "Cinquanta: Celebrating 50 Years Of Maynard James Keenan"
+	},
+	{
+		"bandshort": "CircaSurvive",
+		"bandlong": "Circa Survive"
+	},
+	{
+		"bandshort": "CloudNothings",
+		"bandlong": "Cloud Nothings"
+	},
+	{
+		"bandshort": "Clutch",
+		"bandlong": "Clutch"
+	},
+	{
+		"bandshort": "CodyChesnuTT",
+		"bandlong": "Cody ChesnuTT"
+	},
+	{
+		"bandshort": "CollectiveSoul",
+		"bandlong": "Collective Soul"
+	},
+	{
+		"bandshort": "Converge",
+		"bandlong": "Converge"
+	},
+	{
+		"bandshort": "CountingCrows",
+		"bandlong": "Counting Crows"
+	},
+	{
+		"bandshort": "Crowbar",
+		"bandlong": "Crowbar"
+	},
+	{
+		"bandshort": "Cursive",
+		"bandlong": "Cursive"
+	},
+	{
+		"bandshort": "DEATH",
+		"bandlong": "DEATH"
+	},
+	{
+		"bandshort": "DEVO",
+		"bandlong": "DEVO"
+	},
+	{
+		"bandshort": "DarrenHayes",
+		"bandlong": "Darren Hayes of Savage Garden"
+	},
+	{
+		"bandshort": "Datarock",
+		"bandlong": "Datarock"
+	},
+	{
+		"bandshort": "DavidColon",
+		"bandlong": "David Colon"
+	},
+	{
+		"bandshort": "Deftones",
+		"bandlong": "Deftones"
+	},
+	{
+		"bandshort": "Delain",
+		"bandlong": "Delain"
+	},
+	{
+		"bandshort": "Dethklok",
+		"bandlong": "Dethklok"
+	},
+	{
+		"bandshort": "DevinTownsend",
+		"bandlong": "Devin Townsend"
+	},
+	{
+		"bandshort": "Devotchka",
+		"bandlong": "Devotchka"
+	},
+	{
+		"bandshort": "DieAntwoord",
+		"bandlong": "Die Antwoord"
+	},
+	{
+		"bandshort": "DirtyGhosts",
+		"bandlong": "Dirty Ghosts"
+	},
+	{
+		"bandshort": "DoesItOffendYouYeah",
+		"bandlong": "Does It Offend You, Yeah?"
+	},
+	{
+		"bandshort": "DragonForce",
+		"bandlong": "DragonForce"
+	},
+	{
+		"bandshort": "DreamTheater",
+		"bandlong": "Dream Theater"
+	},
+	{
+		"bandshort": "Dredg",
+		"bandlong": "dredg"
+	},
+	{
+		"bandshort": "DropkickMurphys",
+		"bandlong": "Dropkick Murphys"
+	},
+	{
+		"bandshort": "Dwarves",
+		"bandlong": "Dwarves"
+	},
+	{
+		"bandshort": "EWFAndChicago",
+		"bandlong": "Earth, Wind & Fire + Chicago"
+	},
+	{
+		"bandshort": "EchoAndTheBunnymen",
+		"bandlong": "Echo And The Bunnymen"
+	},
+	{
+		"bandshort": "Eisley",
+		"bandlong": "Eisley"
+	},
+	{
+		"bandshort": "ElectricSix",
+		"bandlong": "Electric Six"
+	},
+	{
+		"bandshort": "EmilyJaneWhite",
+		"bandlong": "Emily Jane White"
+	},
+	{
+		"bandshort": "EraseErrata",
+		"bandlong": "Erase Errata"
+	},
+	{
+		"bandshort": "FFS",
+		"bandlong": "FFS"
+	},
+	{
+		"bandshort": "Failure",
+		"bandlong": "Failure"
+	},
+	{
+		"bandshort": "FaithNoMore",
+		"bandlong": "Faith No More"
+	},
+	{
+		"bandshort": "FeverRay",
+		"bandlong": "Fever Ray"
+	},
+	{
+		"bandshort": "Fidlar",
+		"bandlong": "Fidlar"
+	},
+	{
+		"bandshort": "Filter",
+		"bandlong": "Filter"
+	},
+	{
+		"bandshort": "Fischerspooner",
+		"bandlong": "Fischerspooner"
+	},
+	{
+		"bandshort": "FlamingLips",
+		"bandlong": "The Flaming Lips"
+	},
+	{
+		"bandshort": "FlightOfTheConchords",
+		"bandlong": "Flight Of The Conchords"
+	},
+	{
+		"bandshort": "FloggingMolly",
+		"bandlong": "Flogging Molly"
+	},
+	{
+		"bandshort": "FlorenceAndTheMachine",
+		"bandlong": "Florence + The Machine"
+	},
+	{
+		"bandshort": "Foxygen",
+		"bandlong": "Foxygen"
+	},
+	{
+		"bandshort": "FuManchu",
+		"bandlong": "Fu Manchu"
+	},
+	{
+		"bandshort": "FuckedUp",
+		"bandlong": "Fucked Up"
+	},
+	{
+		"bandshort": "Fun",
+		"bandlong": "fun."
+	},
+	{
+		"bandshort": "FutureOfTheLeft",
+		"bandlong": "Future of the Left"
+	},
+	{
+		"bandshort": "FutureTwin",
+		"bandlong": "Future Twin"
+	},
+	{
+		"bandshort": "GWAR",
+		"bandlong": "GWAR"
+	},
+	{
+		"bandshort": "GenerationAxe",
+		"bandlong": "Generation Axe"
+	},
+	{
+		"bandshort": "Ghost",
+		"bandlong": "Ghost"
+	},
+	{
+		"bandshort": "GlenHansard",
+		"bandlong": "Glen Hansard"
+	},
+	{
+		"bandshort": "GlimpseTrio",
+		"bandlong": "Glimpse Trio"
+	},
+	{
+		"bandshort": "GodspeedYouBlackEmperor",
+		"bandlong": "Godspeed You! Black Emperor"
+	},
+	{
+		"bandshort": "GogolBordello",
+		"bandlong": "Gogol Bordello"
+	},
+	{
+		"bandshort": "GreenDay",
+		"bandlong": "Green Day"
+	},
+	{
+		"bandshort": "Guster",
+		"bandlong": "Guster"
+	},
+	{
+		"bandshort": "Helmet",
+		"bandlong": "Helmet"
+	},
+	{
+		"bandshort": "HexMachine",
+		"bandlong": "Hex Machine"
+	},
+	{
+		"bandshort": "HighOnFire",
+		"bandlong": "High On Fire"
+	},
+	{
+		"bandshort": "HotChip",
+		"bandlong": "Hot Chip"
+	},
+	{
+		"bandshort": "HughLaurie",
+		"bandlong": "Hugh Laurie"
+	},
+	{
+		"bandshort": "IggyAndTheStooges",
+		"bandlong": "Iggy and the Stooges"
+	},
+	{
+		"bandshort": "ImFromBarcelona",
+		"bandlong": "I'm From Barcelona"
+	},
+	{
+		"bandshort": "InFlames",
+		"bandlong": "In Flames"
+	},
+	{
+		"bandshort": "Interpol",
+		"bandlong": "Interpol"
+	},
+	{
+		"bandshort": "IronButterfly",
+		"bandlong": "Iron Butterfly"
+	},
+	{
+		"bandshort": "Jackalope",
+		"bandlong": "Jackalope"
+	},
+	{
+		"bandshort": "JakeShimabukuro",
+		"bandlong": "Jake Shimabukuro"
+	},
+	{
+		"bandshort": "JanelleMonae",
+		"bandlong": "Janelle Monáe"
+	},
+	{
+		"bandshort": "JanesAddiction",
+		"bandlong": "Jane's Addiction"
+	},
+	{
+		"bandshort": "Japandroids",
+		"bandlong": "Japandroids"
+	},
+	{
+		"bandshort": "JasonWebley",
+		"bandlong": "Jason Webley"
+	},
+	{
+		"bandshort": "JeanMichelJarre",
+		"bandlong": "Jean-Michel Jarre"
+	},
+	{
+		"bandshort": "JeremyFisher",
+		"bandlong": "Jeremy Fisher"
+	},
+	{
+		"bandshort": "JinglePunx",
+		"bandlong": "Jingle Punx"
+	},
+	{
+		"bandshort": "JoeSatriani",
+		"bandlong": "Joe Satriani"
+	},
+	{
+		"bandshort": "John5",
+		"bandlong": "John 5"
+	},
+	{
+		"bandshort": "JohnCarpenter",
+		"bandlong": "John Carpenter"
+	},
+	{
+		"bandshort": "JonathanCoulton",
+		"bandlong": "Jonathan Coulton"
+	},
+	{
+		"bandshort": "Jonsi",
+		"bandlong": "Jonsí"
+	},
+	{
+		"bandshort": "KMFDM",
+		"bandlong": "KMFDM"
+	},
+	{
+		"bandshort": "KamasiWashington",
+		"bandlong": "Kamasi Washington"
+	},
+	{
+		"bandshort": "Kamelot",
+		"bandlong": "Kamelot"
+	},
+	{
+		"bandshort": "Karnivool",
+		"bandlong": "Karnivool"
+	},
+	{
+		"bandshort": "Kele",
+		"bandlong": "Kele"
+	},
+	{
+		"bandshort": "Kenna",
+		"bandlong": "Kenna"
+	},
+	{
+		"bandshort": "KillingJoke",
+		"bandlong": "Killing Joke"
+	},
+	{
+		"bandshort": "KillswitchEngage",
+		"bandlong": "Killswitch Engage"
+	},
+	{
+		"bandshort": "Kimbra",
+		"bandlong": "Kimbra"
+	},
+	{
+		"bandshort": "KishiBashi",
+		"bandlong": "Kishi Bashi"
+	},
+	{
+		"bandshort": "Kneedelus",
+		"bandlong": "Kneedelus"
+	},
+	{
+		"bandshort": "KylieMinogue",
+		"bandlong": "Kylie Minogue"
+	},
+	{
+		"bandshort": "LCDSoundsystem",
+		"bandlong": "LCD Soundsystem"
+	},
+	{
+		"bandshort": "Ladytron",
+		"bandlong": "Ladytron"
+	},
+	{
+		"bandshort": "Laibach",
+		"bandlong": "Laibach"
+	},
+	{
+		"bandshort": "LeePressOnAndTheNails",
+		"bandlong": "Lee Presson and the Nails"
+	},
+	{
+		"bandshort": "LeftSpineDown",
+		"bandlong": "Left Spine Down"
+	},
+	{
+		"bandshort": "Liars",
+		"bandlong": "Liars"
+	},
+	{
+		"bandshort": "Live",
+		"bandlong": "Live"
+	},
+	{
+		"bandshort": "Locksley",
+		"bandlong": "Locksley"
+	},
+	{
+		"bandshort": "LoveLikeFire",
+		"bandlong": "LoveLikeFire"
+	},
+	{
+		"bandshort": "Low",
+		"bandlong": "Low"
+	},
+	{
+		"bandshort": "Ludo",
+		"bandlong": "Ludo"
+	},
+	{
+		"bandshort": "MCLars",
+		"bandlong": "MC Lars"
+	},
+	{
+		"bandshort": "MGMT",
+		"bandlong": "MGMT"
+	},
+	{
+		"bandshort": "MLWTTKK",
+		"bandlong": "My Lift With The Thrill Kill Kult"
+	},
+	{
+		"bandshort": "MUTEMATH",
+		"bandlong": "MUTEMATH"
+	},
+	{
+		"bandshort": "MWard",
+		"bandlong": "M. Ward"
+	},
+	{
+		"bandshort": "MacSabbath",
+		"bandlong": "Mac Sabbath"
+	},
+	{
+		"bandshort": "ManMan",
+		"bandlong": "Man Man"
+	},
+	{
+		"bandshort": "MarcyPlayground",
+		"bandlong": "Marcy Playground"
+	},
+	{
+		"bandshort": "MarketaIrglova",
+		"bandlong": "Markéta Irglová"
+	},
+	{
+		"bandshort": "MartinSexton",
+		"bandlong": "Martin Sexton"
+	},
+	{
+		"bandshort": "MassiveAttack",
+		"bandlong": "Massive Attack"
+	},
+	{
+		"bandshort": "Mastodon",
+		"bandlong": "Mastodon"
+	},
+	{
+		"bandshort": "MayleneAndTheSonsOfDisaster",
+		"bandlong": "Maylene and the Sons of Disaster"
+	},
+	{
+		"bandshort": "Megadeth",
+		"bandlong": "Megadeth"
+	},
+	{
+		"bandshort": "MeltBanana",
+		"bandlong": "MeltBanana"
+	},
+	{
+		"bandshort": "Melvins",
+		"bandlong": "Melvins"
+	},
+	{
+		"bandshort": "Meshuggah",
+		"bandlong": "Meshuggah"
+	},
+	{
+		"bandshort": "MindlessSelfIndulgence",
+		"bandlong": "Mindless Self Indulgence"
+	},
+	{
+		"bandshort": "Ministry",
+		"bandlong": "Ministry"
+	},
+	{
+		"bandshort": "MinusTheBear",
+		"bandlong": "Minus The Bear"
+	},
+	{
+		"bandshort": "ModestMouse",
+		"bandlong": "Modest Mouse"
+	},
+	{
+		"bandshort": "Mogwai",
+		"bandlong": "Mogwai"
+	},
+	{
+		"bandshort": "Morcheeba",
+		"bandlong": "Morcheeba"
+	},
+	{
+		"bandshort": "MumfordAndSons",
+		"bandlong": "Mumford And Sons"
+	},
+	{
+		"bandshort": "MurderByDeath",
+		"bandlong": "Murder By Death"
+	},
+	{
+		"bandshort": "NOFX",
+		"bandlong": "NOFX"
+	},
+	{
+		"bandshort": "NeilGaimanAmandaPalmer",
+		"bandlong": "Neil Gaiman & Amanda Palmer"
+	},
+	{
+		"bandshort": "NeutralMilkHotel",
+		"bandlong": "Neutral Milk Hotel"
+	},
+	{
+		"bandshort": "NickelCreek",
+		"bandlong": "Nickel Creek"
+	},
+	{
+		"bandshort": "Nightwish",
+		"bandlong": "Nightwish"
+	},
+	{
+		"bandshort": "NineInchNails",
+		"bandlong": "Nine Inch Nails"
+	},
+	{
+		"bandshort": "NitzerEbb",
+		"bandlong": "Nitzer Ebb"
+	},
+	{
+		"bandshort": "NuclearRabbit",
+		"bandlong": "Nuclear Rabbit"
+	},
+	{
+		"bandshort": "ODeath",
+		"bandlong": "O'Death"
+	},
+	{
+		"bandshort": "OFF",
+		"bandlong": "OFF"
+	},
+	{
+		"bandshort": "OKGO",
+		"bandlong": "OK GO"
+	},
+	{
+		"bandshort": "OfMontreal",
+		"bandlong": "of Montreal"
+	},
+	{
+		"bandshort": "Oona",
+		"bandlong": "Oona"
+	},
+	{
+		"bandshort": "Opeth",
+		"bandlong": "Opeth"
+	},
+	{
+		"bandshort": "Ours",
+		"bandlong": "OURS"
+	},
+	{
+		"bandshort": "PansyDivision",
+		"bandlong": "Pansy Division"
+	},
+	{
+		"bandshort": "PaperRoute",
+		"bandlong": "Paper Route"
+	},
+	{
+		"bandshort": "PatrickWatson",
+		"bandlong": "Patrick Watson"
+	},
+	{
+		"bandshort": "PatrickWolf",
+		"bandlong": "Patrick Wolf"
+	},
+	{
+		"bandshort": "PaulAndStorm",
+		"bandlong": "Paul & Storm"
+	},
+	{
+		"bandshort": "PeepingTom",
+		"bandlong": "Peeping Tom"
+	},
+	{
+		"bandshort": "PeterHookAndTheLight",
+		"bandlong": "Peter Hook and the Light"
+	},
+	{
+		"bandshort": "PeterMurphy",
+		"bandlong": "Peter Murphy"
+	},
+	{
+		"bandshort": "Pinback",
+		"bandlong": "Pinback"
+	},
+	{
+		"bandshort": "PinkMartini",
+		"bandlong": "Pink Martini"
+	},
+	{
+		"bandshort": "PinkMountaintops",
+		"bandlong": "Pink Mountaintops"
+	},
+	{
+		"bandshort": "Pixies",
+		"bandlong": "Pixies"
+	},
+	{
+		"bandshort": "Placebo",
+		"bandlong": "Placebo"
+	},
+	{
+		"bandshort": "PlagueVendor",
+		"bandlong": "Plague Vendor"
+	},
+	{
+		"bandshort": "Polysics",
+		"bandlong": "Polysics"
+	},
+	{
+		"bandshort": "Pomplamoose",
+		"bandlong": "Pomplamoose"
+	},
+	{
+		"bandshort": "PorcupineTree",
+		"bandlong": "Porcupine Tree"
+	},
+	{
+		"bandshort": "Portishead",
+		"bandlong": "Portishead"
+	},
+	{
+		"bandshort": "Primus",
+		"bandlong": "Primus"
+	},
+	{
+		"bandshort": "PublicImageLimited",
+		"bandlong": "Public Image Limited"
+	},
+	{
+		"bandshort": "PublicServiceBroadcasting",
+		"bandlong": "Public Service Broadcasting"
+	},
+	{
+		"bandshort": "Puscifer",
+		"bandlong": "Puscifer"
+	},
+	{
+		"bandshort": "Quicksand",
+		"bandlong": "Quicksand"
+	},
+	{
+		"bandshort": "QuinnDeveaux",
+		"bandlong": "Quinn Deveaux"
+	},
+	{
+		"bandshort": "Ratatat",
+		"bandlong": "Ratatat"
+	},
+	{
+		"bandshort": "Redwalls",
+		"bandlong": "Redwalls"
+	},
+	{
+		"bandshort": "ReelBigFish",
+		"bandlong": "Reel Big Fish"
+	},
+	{
+		"bandshort": "Refused",
+		"bandlong": "Refused"
+	},
+	{
+		"bandshort": "RevoltingCocks",
+		"bandlong": "Revolting Cocks"
+	},
+	{
+		"bandshort": "RhapsodyOfFire",
+		"bandlong": "Rhapsody Of Fire"
+	},
+	{
+		"bandshort": "RobZombie",
+		"bandlong": "Rob Zombie"
+	},
+	{
+		"bandshort": "RodrigoYGabriela",
+		"bandlong": "Rodrigo y Gabriela"
+	},
+	{
+		"bandshort": "RoyalThunder",
+		"bandlong": "Royal Thunder"
+	},
+	{
+		"bandshort": "Rubberbandits",
+		"bandlong": "Rubberbandits"
+	},
+	{
+		"bandshort": "Sabaton",
+		"bandlong": "Sabaton"
+	},
+	{
+		"bandshort": "SaulWilliams",
+		"bandlong": "Saul Williams"
+	},
+	{
+		"bandshort": "Savages",
+		"bandlong": "Savages"
+	},
+	{
+		"bandshort": "ScissorSisters",
+		"bandlong": "Scissor Sisters"
+	},
+	{
+		"bandshort": "Seal",
+		"bandlong": "Seal"
+	},
+	{
+		"bandshort": "ShadowsFall",
+		"bandlong": "Shadows Fall"
+	},
+	{
+		"bandshort": "SheWantsRevenge",
+		"bandlong": "She Wants Revenge"
+	},
+	{
+		"bandshort": "ShobaleaderOne",
+		"bandlong": "Shobaleader One"
+	},
+	{
+		"bandshort": "Shpongle",
+		"bandlong": "Shpongle"
+	},
+	{
+		"bandshort": "SicAlps",
+		"bandlong": "Sic Alps"
+	},
+	{
+		"bandshort": "SigurRos",
+		"bandlong": "Sigur Rós"
+	},
+	{
+		"bandshort": "SilverMountZion",
+		"bandlong": "A Silver Mt. Zion"
+	},
+	{
+		"bandshort": "Silverchair",
+		"bandlong": "Silverchair"
+	},
+	{
+		"bandshort": "SleaterKinney",
+		"bandlong": "Sleater-Kinney"
+	},
+	{
+		"bandshort": "Sleep",
+		"bandlong": "Sleep"
+	},
+	{
+		"bandshort": "SnowPatrol",
+		"bandlong": "Snow Patrol"
+	},
+	{
+		"bandshort": "SocialDistortion",
+		"bandlong": "Social Distortion"
+	},
+	{
+		"bandshort": "SolidStateLogic",
+		"bandlong": "Solid State Logic"
+	},
+	{
+		"bandshort": "SonataArctica",
+		"bandlong": "Sonata Arctica"
+	},
+	{
+		"bandshort": "SonicYouth",
+		"bandlong": "Sonic Youth"
+	},
+	{
+		"bandshort": "Soundgarden",
+		"bandlong": "Soundgarden"
+	},
+	{
+		"bandshort": "Sparks",
+		"bandlong": "Sparks"
+	},
+        {
+                "bandshort": "SparksEarly",
+                "bandlong": "Sparks - Early Show"
+        },
+        {
+                "bandshort": "SparksLate",
+                "bandlong": "Sparks - Late Show"
+        },
+	{
+		"bandshort": "Sparta",
+		"bandlong": "Sparta"
+	},
+	{
+		"bandshort": "Spiritualized",
+		"bandlong": "Spiritualized"
+	},
+	{
+		"bandshort": "Spoon",
+		"bandlong": "Spoon"
+	},
+	{
+		"bandshort": "SquareTape",
+		"bandlong": "Square Tape"
+	},
+	{
+		"bandshort": "StVincent",
+		"bandlong": "St. Vincent"
+	},
+	{
+		"bandshort": "SteelPanther",
+		"bandlong": "Steel Panther"
+	},
+	{
+		"bandshort": "StevenWilson",
+		"bandlong": "Steven Wilson"
+	},
+	{
+		"bandshort": "StormLarge",
+		"bandlong": "Storm Large"
+	},
+	{
+		"bandshort": "StreetSweeperSocialClub",
+		"bandlong": "Street Sweeper Social Club"
+	},
+	{
+		"bandshort": "Styx",
+		"bandlong": "Styx"
+	},
+	{
+		"bandshort": "Sufis",
+		"bandlong": "Sufis"
+	},
+	{
+		"bandshort": "SufjanStevens",
+		"bandlong": "Sufjan Stevens"
+	},
+	{
+		"bandshort": "Swans",
+		"bandlong": "Swans"
+	},
+	{
+		"bandshort": "TPOTUSA",
+		"bandlong": "The Presidents of the United States of America"
+	},
+	{
+		"bandshort": "TVOnTheRadio",
+		"bandlong": "TV On The Radio"
+	},
+	{
+		"bandshort": "TenaciousD",
+		"bandlong": "Tenacious D"
+	},
+	{
+		"bandshort": "That1Guy",
+		"bandlong": "That 1 Guy"
+	},
+	{
+		"bandshort": "TheAdicts",
+		"bandlong": "The Adicts"
+	},
+	{
+		"bandshort": "TheAustralianPinkFloydShow",
+		"bandlong": "The Australian Pink Floyd Show"
+	},
+	{
+		"bandshort": "TheAvengers",
+		"bandlong": "The Avengers"
+	},
+	{
+		"bandshort": "TheBlackAngels",
+		"bandlong": "The Black Angels"
+	},
+	{
+		"bandshort": "TheBlackKeys",
+		"bandlong": "The Black Keys"
+	},
+	{
+		"bandshort": "TheContortionist",
+		"bandlong": "The Contortionist"
+	},
+	{
+		"bandshort": "TheCrystalMethod",
+		"bandlong": "The Crystal Method"
+	},
+	{
+		"bandshort": "TheDarkness",
+		"bandlong": "The Darkness"
+	},
+	{
+		"bandshort": "TheDeadMilkmen",
+		"bandlong": "The Dead Milkmen"
+	},
+	{
+		"bandshort": "TheDecemberists",
+		"bandlong": "The Decemberists"
+	},
+	{
+		"bandshort": "TheDresdenDolls",
+		"bandlong": "The Dresden Dolls"
+	},
+	{
+		"bandshort": "TheFaint",
+		"bandlong": "The Faint"
+	},
+	{
+		"bandshort": "TheFerociousFew",
+		"bandlong": "The Ferocious Few"
+	},
+	{
+		"bandshort": "TheFieryFurnaces",
+		"bandlong": "The Fiery Furnaces"
+	},
+	{
+		"bandshort": "TheFlamingLips",
+		"bandlong": "The Flaming Lips"
+	},
+	{
+		"bandshort": "TheFuxedos",
+		"bandlong": "The Fuxedos"
+	},
+	{
+		"bandshort": "TheGlitchMob",
+		"bandlong": "The Glitch Mob"
+	},
+	{
+		"bandshort": "TheHeavy",
+		"bandlong": "The Heavy"
+	},
+	{
+		"bandshort": "TheHives",
+		"bandlong": "The Hives"
+	},
+	{
+		"bandshort": "TheJesusAndMaryChain",
+		"bandlong": "The Jesus And Mary Chain"
+	},
+	{
+		"bandshort": "TheJoyFormidable",
+		"bandlong": "The Joy Formidable"
+	},
+	{
+		"bandshort": "TheKnife",
+		"bandlong": "The Knife"
+	},
+	{
+		"bandshort": "TheLegendaryPinkDots",
+		"bandlong": "The Legendary Pink Dots"
+	},
+	{
+		"bandshort": "TheMagneticFields",
+		"bandlong": "The Magnetic Fields"
+	},
+	{
+		"bandshort": "TheMarsVolta",
+		"bandlong": "The Mars Volta"
+	},
+	{
+		"bandshort": "TheMaxies",
+		"bandlong": "The Maxies"
+	},
+	{
+		"bandshort": "TheMoodyBlues",
+		"bandlong": "The Moody Blues"
+	},
+	{
+		"bandshort": "TheMowglis",
+		"bandlong": "The Mowgli's"
+	},
+	{
+		"bandshort": "TheNakedAndFamous",
+		"bandlong": "The Naked And Famous"
+	},
+	{
+		"bandshort": "TheNational",
+		"bandlong": "The National"
+	},
+	{
+		"bandshort": "TheNerv",
+		"bandlong": "The Nerv"
+	},
+	{
+		"bandshort": "ThePhenomenauts",
+		"bandlong": "The Phenomenauts"
+	},
+	{
+		"bandshort": "ThePolyphonicSpree",
+		"bandlong": "The Polyphonic Spree"
+	},
+	{
+		"bandshort": "TheProdigy",
+		"bandlong": "The Prodigy"
+	},
+	{
+		"bandshort": "TheProtomen",
+		"bandlong": "The Protomen"
+	},
+	{
+		"bandshort": "TheRadishes",
+		"bandlong": "The Radishes"
+	},
+	{
+		"bandshort": "TheRapture",
+		"bandlong": "The Rapture"
+	},
+	{
+		"bandshort": "TheRealMcKenzies",
+		"bandlong": "The Real McKenzies"
+	},
+	{
+		"bandshort": "TheRoots",
+		"bandlong": "The Roots"
+	},
+	{
+		"bandshort": "TheShes",
+		"bandlong": "The Shes"
+	},
+	{
+		"bandshort": "TheShins",
+		"bandlong": "The Shins"
+	},
+	{
+		"bandshort": "TheSilentComedy",
+		"bandlong": "The Silent Comedy"
+	},
+	{
+		"bandshort": "TheStoneFoxes",
+		"bandlong": "The Stone Foxes"
+	},
+	{
+		"bandshort": "TheStrokes",
+		"bandlong": "The Strokes"
+	},
+	{
+		"bandshort": "TheSwellSeason",
+		"bandlong": "The Swell Season"
+	},
+	{
+		"bandshort": "TheTechnicolors",
+		"bandlong": "The Technicolors"
+	},
+	{
+		"bandshort": "TheThermals",
+		"bandlong": "The Thermals"
+	},
+	{
+		"bandshort": "TheTragicallyHip",
+		"bandlong": "The Tragically Hip"
+	},
+	{
+		"bandshort": "TheXX",
+		"bandlong": "The xx"
+	},
+	{
+		"bandshort": "ThemCrookedVultures",
+		"bandlong": "Them Crooked Vultures"
+	},
+	{
+		"bandshort": "TheyMightBeGiants",
+		"bandlong": "They Might Be Giants"
+	},
+	{
+		"bandshort": "ThieveryCorporation",
+		"bandlong": "Thievery Corporation"
+	},
+	{
+		"bandshort": "Thrice",
+		"bandlong": "Thrice"
+	},
+	{
+		"bandshort": "TitusAndronicus",
+		"bandlong": "Titus Andronicus"
+	},
+	{
+		"bandshort": "TomJones",
+		"bandlong": "Sir Tom Jones"
+	},
+	{
+		"bandshort": "TomMorello",
+		"bandlong": "Tom Morello"
+	},
+	{
+		"bandshort": "Tomahawk",
+		"bandlong": "Tomahawk"
+	},
+	{
+		"bandshort": "Tool",
+		"bandlong": "Tool"
+	},
+	{
+		"bandshort": "ToriAmos",
+		"bandlong": "Tori Amos"
+	},
+	{
+		"bandshort": "TrailOfDead",
+		"bandlong": "...And You Will Know Us By The Trail Of Dead"
+	},
+	{
+		"bandshort": "TransSiberianOrchestra",
+		"bandlong": "Trans-Siberian Orchestra"
+	},
+	{
+		"bandshort": "TySegall",
+		"bandlong": "Ty Segall"
+	},
+	{
+		"bandshort": "Ultraista",
+		"bandlong": "Ultraísta"
+	},
+	{
+		"bandshort": "UmphreysMcGee",
+		"bandlong": "Umphrey's McGee"
+	},
+	{
+		"bandshort": "UnderCoverPresentsDookie",
+		"bandlong": "UnderCover Presents: Dookie"
+	},
+	{
+		"bandshort": "UnderTheInfluenceOfGiants",
+		"bandlong": "Under The Influence Of Giants"
+	},
+	{
+		"bandshort": "VNVNation",
+		"bandlong": "VNV Nation"
+	},
+	{
+		"bandshort": "VampireWeekend",
+		"bandlong": "Vampire Weekend"
+	},
+	{
+		"bandshort": "VermillionLies",
+		"bandlong": "Vermillion Lies"
+	},
+	{
+		"bandshort": "Voltaire",
+		"bandlong": "Voltaire"
+	},
+	{
+		"bandshort": "WATERS",
+		"bandlong": "WATERS"
+	},
+	{
+		"bandshort": "WalkOffTheEarth",
+		"bandlong": "Walk Off The Earth"
+	},
+	{
+		"bandshort": "WeBeTheEcho",
+		"bandlong": "We Be The Echo"
+	},
+	{
+		"bandshort": "Ween",
+		"bandlong": "Ween"
+	},
+	{
+		"bandshort": "WhiteLung",
+		"bandlong": "White Lung"
+	},
+	{
+		"bandshort": "WhitetrashDebutantes",
+		"bandlong": "Whitetrash Debutantes"
+	},
+	{
+		"bandshort": "WillSprott",
+		"bandlong": "Will Sprott of The Mumlers"
+	},
+	{
+		"bandshort": "Wolfmother",
+		"bandlong": "Wolfmother"
+	},
+	{
+		"bandshort": "WorldInfernoFriendshipSociety",
+		"bandlong": "The World/Inferno Friendship Society"
+	},
+	{
+		"bandshort": "X",
+		"bandlong": "X"
+	},
+	{
+		"bandshort": "XJapan",
+		"bandlong": "X Japan"
+	},
+	{
+		"bandshort": "YeahYeahYeahs",
+		"bandlong": "Yeah Yeah Yeahs"
+	},
+	{
+		"bandshort": "Yes",
+		"bandlong": "Yes"
+	},
+	{
+		"bandshort": "YoLaTengo",
+		"bandlong": "Yo La Tengo"
+	},
+	{
+		"bandshort": "YokoOno",
+		"bandlong": "Yoko Ono"
+	},
+	{
+		"bandshort": "fIREHOSE",
+		"bandlong": "fIREHOSE"
+	},
+	{
+		"bandshort": "ohGr",
+		"bandlong": "ohGr"
+	},
+	{
+		"bandshort": "tUnEyArDs",
+		"bandlong": "tUnE-yArDs"
+	}
+]

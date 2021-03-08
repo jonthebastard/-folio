@@ -34,10 +34,10 @@ $purple: #B509AC;
 
 $grey-color-dark: #333;   /* footer */
 $grey-color-light: #ddd;  /* navigation bar border */
-$text-color:     #666;
+$text-color:     #b7b7b7;
 
 /* Set theme color *************************/
-$theme-color:   $red;
+$theme-color:   $grey-color-light;
 
 
 /************************************************************/
@@ -170,7 +170,7 @@ pre,
 code {
     font-size: 15px;
     border-radius: 3px;
-    background-color: $grey-color-light;
+    background-color: $grey-color-dark;
 }
 
 code {

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: about
-permalink: /about/
+title: full artist list
+permalink: /band-list/
 ---
 
 <img class="col one right" src="/img/prof_pic.jpg">

@@ -3,8 +3,7 @@
  * Site header   **********************************************************
  */
 .site-header {
-border-bottom: 1px solid $grey-color-light;
-background-color: #fff;
+background-color: $grey-color-dark;
 opacity: 0.75;
 position:fixed;
 left:0px;
@@ -63,7 +62,7 @@ display: line;
     z-index: 25;
     h1{
         color: $theme-color;
-        font-size:75px;
+        font-size:65px;
     }
     h2{
         font-size:25px;
@@ -145,7 +144,7 @@ font-size: 36px;
 }
 .post-content {
 h2 {
-font-size: 42px;
+font-size: 32px;
 @include media-query($on-laptop) {
 font-size: 28px;
         }
@@ -278,3 +277,18 @@ text-align: center;
 vertical-align: middle;
 font-size: $caption_font_size;
 }
+
+      #search-demo-container {
+        max-width: 40em;
+        padding: 1em;
+        margin: 1em auto;
+      }
+      #search-input {
+        display: inline-block;
+        padding: .5em;
+        width: 100%;
+        font-size: 0.8em;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+      }

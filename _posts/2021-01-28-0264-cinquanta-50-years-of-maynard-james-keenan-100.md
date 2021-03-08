@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "CINQUANTA: 50 YEARS OF MAYNARD JAMES KEENAN"
-uid: cinquanta-50-years-of-maynard-james-keenan-100
-price: "$100"
 date: 2021-01-28
 sizing: "SMALL | Preshrunk 100% Ringspun Cotton | Tultex"
 ---

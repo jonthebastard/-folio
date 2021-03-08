@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "BROKEN LIZARD (OF SUPER TROOPERS FAME)"
-uid: broken-lizard-of-super-troopers-fame-40
-price: "$40"
 date: 2021-01-28
 sizing: "MEDIUM | 100% Combed Ringspun Cotton | Tultex"
 ---

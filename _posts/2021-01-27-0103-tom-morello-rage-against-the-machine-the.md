@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "TOM MORELLO (RAGE AGAINST THE MACHINE): THE NIGHTWATCHMAN"
-price: "$40"
-uid: tom-morello-rage-against-the-machine-the
 date: 2021-01-27
 sizing: "SMALL | 100% Preshrunk Cotton | Lifewear"
 ---

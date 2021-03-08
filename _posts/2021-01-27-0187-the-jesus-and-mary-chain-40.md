@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THE JESUS AND MARY CHAIN"
-uid: the-jesus-and-mary-chain-40
-price: "$40"
 date: 2021-01-27
 sizing: "LARGE | 100% Cotton | Gildan"
 ---

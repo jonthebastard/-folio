@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THE SILENT COMEDY"
-uid: the-silent-comedy-30
-price: "$30"
 date: 2021-01-29
 sizing: "LARGE | 50% Combed Cotton / 50% Polyester | american Apparel"
 ---

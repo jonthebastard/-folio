@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "BÉLA FLECK & THE FLECKTONES"
-uid: béla-fleck-the-flecktones-40
-price: "$40"
 date: 2021-01-27
 sizing: "MEDIUM | 100% Preshrunk Cotton | Gildan"
 ---

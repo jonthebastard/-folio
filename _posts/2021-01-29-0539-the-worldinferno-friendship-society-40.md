@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THE WORLD/INFERNO FRIENDSHIP SOCIETY"
-uid: the-worldinferno-friendship-society-40
-price: "$40"
 date: 2021-01-29
 sizing: "SMALL | 50% Cotton / 50% Polyester | Gildan"
 ---

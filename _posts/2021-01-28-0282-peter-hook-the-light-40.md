@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "PETER HOOK & THE LIGHT"
-uid: peter-hook-the-light-40
-price: "$40"
 date: 2021-01-28
 sizing: "MEDIUM | 100% Cotton | Alstyle Apparel & Activewear"
 ---

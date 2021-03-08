@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THE JOY FORMIDABLE"
-uid: the-joy-formidable-40
-price: "$40"
 date: 2021-01-29
 sizing: "SMALL | Preshrunk 100% Ringspun Cotton | Tultex"
 ---

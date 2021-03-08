@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "TRANS-SIBERIAN ORCHESTRA"
-uid: trans-siberian-orchestra-50
-price: "$50"
 date: 2021-01-27
 sizing: "LARGE | 100% Preshrunk Cotton | Anvil"
 ---

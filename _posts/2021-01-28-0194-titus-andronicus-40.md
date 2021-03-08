@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "TITUS ANDRONICUS"
-uid: titus-andronicus-40
-price: "$40"
 date: 2021-01-28
 sizing: "SMALL | 100% Cotton"
 ---

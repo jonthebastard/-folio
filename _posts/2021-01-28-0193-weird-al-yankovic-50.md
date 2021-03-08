@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "'WEIRD AL' YANKOVIC"
-uid: weird-al-yankovic-50
-price: "$50"
 date: 2021-01-28
 sizing: "SMALL | 100% Preshrunk Ringspun Cotton | Tultex"
 ---

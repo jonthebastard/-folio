@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "RODRIGO Y GABRIELA"
-uid: rodrigo-y-gabriela-40
-price: "$40"
 date: 2021-01-29
 sizing: "SMALL | 52% Cotton / 48% Polyester | Canvas"
 ---

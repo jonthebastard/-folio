@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "MINDLESS SELF INDULGENCE"
-uid: mindless-self-indulgence-50
-price: "$50"
 date: 2021-01-27
 sizing: "MEDIUM | 100% Preshrunk Cotton | Murina"
 ---

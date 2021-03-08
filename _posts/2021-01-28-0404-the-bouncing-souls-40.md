@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THE BOUNCING SOULS"
-uid: the-bouncing-souls-40
-price: "$40"
 date: 2021-01-28
 sizing: "SMALL | 100% Preshrunk Cotton | Anvil"
 ---

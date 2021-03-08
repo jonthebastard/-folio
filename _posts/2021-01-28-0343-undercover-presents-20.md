@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "UNDERCOVER PRESENTS"
-uid: undercover-presents-20
-price: "$20"
 date: 2021-01-28
 sizing: "SMALL | 100% Cotton | Next Level apparel"
 ---

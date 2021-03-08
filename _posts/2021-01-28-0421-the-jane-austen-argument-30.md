@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THE JANE AUSTEN ARGUMENT"
-uid: the-jane-austen-argument-30
-price: "$30"
 date: 2021-01-28
 sizing: "MEDIUM | Unlisted (cotton/blend) | Hanes"
 ---

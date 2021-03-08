@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THEM CROOKED VULTURES"
-uid: them-crooked-vultures-60
-price: "$60"
 date: 2021-01-27
 sizing: "MEDIUM | 100% Preshrunk Cotton | TCV (brand not listed)"
 ---

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "STRAWBERRY GIRLS"
-uid: strawberry-girls-40
-price: "$40"
 date: 2021-01-28
 sizing: "SMALL | 50% Polyester/25% Cotton/25% Rayon | Next Level apparel"
 ---

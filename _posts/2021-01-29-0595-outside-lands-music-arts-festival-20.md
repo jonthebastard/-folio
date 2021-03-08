@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "OUTSIDE LANDS MUSIC & ARTS FESTIVAL"
-uid: outside-lands-music-arts-festival-20
-price: "$20"
 date: 2021-01-29
 sizing: "SMALL | 100% Cotton | Next Level apparel"
 ---

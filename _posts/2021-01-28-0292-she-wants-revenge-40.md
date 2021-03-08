@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "SHE WANTS REVENGE"
-uid: she-wants-revenge-40
-price: "$40"
 date: 2021-01-28
 sizing: "MEDIUM | 100% Cotton | Bay Island Sportswear"
 ---

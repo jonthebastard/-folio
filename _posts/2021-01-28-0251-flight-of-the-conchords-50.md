@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "FLIGHT OF THE CONCHORDS"
-uid: flight-of-the-conchords-50
-price: "$50"
 date: 2021-01-28
 sizing: "SMALL | Preshrunk 65% Polyester/35% Ringspun Cotton | Tultex"
 ---

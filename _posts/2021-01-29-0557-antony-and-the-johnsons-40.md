@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "ANTONY AND THE JOHNSONS"
-uid: antony-and-the-johnsons-40
-price: "$40"
 date: 2021-01-29
 sizing: "MEDIUM | 50% Polyester / 25% Combed Cotton / 25% Rayon | American Apparel"
 ---

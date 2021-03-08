@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "GLEN HANSARD (THE SWELL SEASON / THE FRAMES)"
-uid: glen-hansard-the-swell-season-the-frames-40
-price: "$40"
 date: 2021-01-29
 sizing: "SMALL | 50% Polyester / 25% Cotton / 25% Rayon | Canvas"
 ---

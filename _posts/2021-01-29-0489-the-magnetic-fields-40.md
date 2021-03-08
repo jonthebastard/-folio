@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THE MAGNETIC FIELDS"
-uid: the-magnetic-fields-40
-price: "$40"
 date: 2021-01-29
 sizing: "SMALL | 100% Preshrunk Cotton | Hanes"
 ---

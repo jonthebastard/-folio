@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "NEIL GAIMAN & AMANDA PALMER"
-uid: neil-gaiman-amanda-palmer-70
-price: "$70"
 date: 2021-01-28
 sizing: "MEDIUM | 100% Cotton | Hanes"
 ---

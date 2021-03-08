@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "SOCIAL DISTORTION"
-uid: social-distortion-40
-price: "$40"
 date: 2021-01-28
 sizing: "SIZE NOT LISTED | Unlisted (cotton/blend)"
 ---

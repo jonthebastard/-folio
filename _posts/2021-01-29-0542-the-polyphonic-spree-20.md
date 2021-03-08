@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THE POLYPHONIC SPREE"
-uid: the-polyphonic-spree-20
-price: "$20"
 date: 2021-01-29
 sizing: "YOUTH LARGE | 100% Cotton Preshrunk  | Gildan"
 ---

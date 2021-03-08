@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "MORBID ANGEL / BEHEMOTH / KRISIUN / DESPISED ICON"
-price: "$40"
-uid: morbid-angel-behemoth-krisiun-despised-icon
 date: 2021-01-28
 sizing: "LARGE | 100% Preshrunk Cotton | Anvil"
 ---

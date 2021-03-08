@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "MAYNARD JAMES KEENAN"
-uid: maynard-james-keenan-60
-price: "$60"
 date: 2021-01-27
 sizing: "MEDIUM | 100% Cotton | Canvas"
 ---

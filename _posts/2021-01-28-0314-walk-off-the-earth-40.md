@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "WALK OFF THE EARTH"
-uid: walk-off-the-earth-40
-price: "$40"
 date: 2021-01-28
 sizing: "SMALL | 100% Cotton | Alstyle Apparel & Activewear"
 ---

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "RAILROAD REVIVAL"
-uid: railroad-revival-60
-price: "$60"
 date: 2021-01-27
 sizing: "MEDIUM | 50% Polyester/25% Combed Cotton/25% Rayon | American Apparel"
 ---

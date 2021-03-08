@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THE PRESIDENTS OF THE UNITED STATES OF AMERICA"
-price: "$40"
-uid: the-presidents-of-the-united-states-of-america
 date: 2021-01-27
 sizing: "LARGE | 100% Preshrunk Cotton | Anvil"
 ---

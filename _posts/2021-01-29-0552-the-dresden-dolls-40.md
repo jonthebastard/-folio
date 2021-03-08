@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THE DRESDEN DOLLS"
-uid: the-dresden-dolls-40
-price: "$40"
 date: 2021-01-29
 sizing: "LARGE | 100% Cotton | Fruit of the Loom"
 ---

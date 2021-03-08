@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "COHEED AND CAMBRIA"
-uid: coheed-and-cambria-60
-price: "$60"
 date: 2021-01-27
 sizing: "LARGE | 100% Preshrunk Cotton | Hanes"
 ---

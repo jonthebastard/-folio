@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THE POLYPHONIC SPREE"
-uid: the-polyphonic-spree-50
-price: "$50"
 date: 2021-01-29
 sizing: "LARGE | 100% Combed Cotton | American Apparel"
 ---

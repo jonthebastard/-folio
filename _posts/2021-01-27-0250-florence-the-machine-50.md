@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "FLORENCE + THE MACHINE"
-uid: florence-the-machine-50
-price: "$50"
 date: 2021-01-27
 sizing: "MEDIUM | 50% Combed Cotton/50% Polyester | American Apparel"
 ---

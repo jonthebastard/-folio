@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "PETER HOOK & THE LIGHT"
-uid: peter-hook-the-light-40
-price: "$40"
 date: 2021-01-27
 sizing: "SMALL | 100% Cotton | Gildan"
 ---

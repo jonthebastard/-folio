@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THE CRYSTAL METHOD"
-uid: the-crystal-method-40
-price: "$40"
 date: 2021-01-27
 sizing: "SMALL | Unlisted (cotton/blend) | YST"
 ---

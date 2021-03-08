@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THE DEAD KENNY G'S (SKERIK + JAY LANE OF PRIMUS)"
-price: "$40"
-uid: the-dead-kenny-gs-skerik-jay-lane-of-primus
 date: 2021-01-28
 sizing: "LARGE | 100% Combed Cotton | American Apparel"
 ---

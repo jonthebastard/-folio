@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "KELE (OF BLOC PARTY) + DOES IT OFFEND YOU YEAH? + INNERPARTYSYSTEM"
-price: "$40"
-uid: kele-of-bloc-party-does-it-offend-you-yeah
 date: 2021-01-28
 sizing: "MEDIUM | Preshrunk 100% Cotton | Anvil"
 ---

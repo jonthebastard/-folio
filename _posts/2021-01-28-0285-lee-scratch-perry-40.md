@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "LEE 'SCRATCH' PERRY"
-uid: lee-scratch-perry-40
-price: "$40"
 date: 2021-01-28
 sizing: "LARGE | 100% Preshrunk Cotton | Gildan"
 ---

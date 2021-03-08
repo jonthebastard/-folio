@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "MINISTRY / REVOLTING COCKS"
-uid: ministry-revolting-cocks-40
-price: "$40"
 date: 2021-01-28
 sizing: "LARGE | 100% Preshrunk Cotton | Murina"
 ---

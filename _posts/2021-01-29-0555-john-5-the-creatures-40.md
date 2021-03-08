@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "JOHN 5 & THE CREATURES"
-uid: john-5-the-creatures-40
-price: "$40"
 date: 2021-01-29
 sizing: "SMALL | 100% Cotton | Alstyle Apparel & Activewear"
 ---

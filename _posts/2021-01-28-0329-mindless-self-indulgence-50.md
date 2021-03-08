@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "MINDLESS SELF INDULGENCE"
-uid: mindless-self-indulgence-50
-price: "$50"
 date: 2021-01-28
 sizing: "MEDIUM | Preshrunk 100% Ringspun Cotton | Tultex"
 ---

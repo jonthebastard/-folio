@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "RODRIGO Y GABRIELA"
-uid: rodrigo-y-gabriela-40
-price: "$40"
 date: 2021-01-27
 sizing: "MEDIUM | Unlisted (cotton/blend) | Earth Positive"
 ---

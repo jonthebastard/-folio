@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THROBBING GRISTLE"
-uid: throbbing-gristle-60
-price: "$60"
 date: 2021-01-29
 sizing: "MEDIUM | 100% Cotton Preshrunk  | Gildan"
 ---

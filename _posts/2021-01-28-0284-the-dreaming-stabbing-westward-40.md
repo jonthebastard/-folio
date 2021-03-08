@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THE DREAMING (STABBING WESTWARD)"
-uid: the-dreaming-stabbing-westward-40
-price: "$40"
 date: 2021-01-28
 sizing: "SMALL | 100% Cotton | Alstyle Apparel & Activewear"
 ---

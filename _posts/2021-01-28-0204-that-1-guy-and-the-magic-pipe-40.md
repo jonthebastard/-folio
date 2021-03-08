@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THAT 1 GUY AND THE MAGIC PIPE"
-uid: that-1-guy-and-the-magic-pipe-40
-price: "$40"
 date: 2021-01-28
 sizing: "WOMEN'S LARGE | Preshrunk 65% Polyester/35% Ringspun Cotton | Tultex"
 ---

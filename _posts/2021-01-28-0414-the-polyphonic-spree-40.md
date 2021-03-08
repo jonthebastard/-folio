@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THE POLYPHONIC SPREE"
-uid: the-polyphonic-spree-40
-price: "$40"
 date: 2021-01-28
 sizing: "SMALL | 52% Cotton / 48% Polyester | Canvas"
 ---

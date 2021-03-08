@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "BLACK LIGHT BURNS"
-uid: black-light-burns-40
-price: "$40"
 date: 2021-01-27
 sizing: "MEDIUM | 100% Preshrunk Combed Ringspun Cotton | Tultex"
 ---

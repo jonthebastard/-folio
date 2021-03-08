@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "MY LIFE WITH THE THRILL KILL KULT"
-uid: my-life-with-the-thrill-kill-kult-40
-price: "$40"
 date: 2021-01-29
 sizing: "MEDIUM | 100% Cotton | Fruit of the Loom"
 ---

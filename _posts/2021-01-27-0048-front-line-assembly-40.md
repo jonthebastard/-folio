@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "FRONT LINE ASSEMBLY"
-uid: front-line-assembly-40
-price: "$40"
 date: 2021-01-27
 sizing: "WOMEN'S LARGE | 100% Ringspun Cotton | Tultex"
 ---

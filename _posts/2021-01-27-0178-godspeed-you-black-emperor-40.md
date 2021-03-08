@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "GODSPEED YOU! BLACK EMPEROR"
-uid: godspeed-you-black-emperor-40
-price: "$40"
 date: 2021-01-27
 sizing: "MEDIUM | Unlisted (cotton/blend) | Alternative Earth"
 ---

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "ALLMAN BROTHERS BAND"
-uid: allman-brothers-band-50
-price: "$50"
 date: 2021-01-27
 sizing: "MEDIUM | 100% Preshrunk Cotton | Gildan"
 ---

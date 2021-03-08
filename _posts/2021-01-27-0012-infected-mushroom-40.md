@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "INFECTED MUSHROOM"
-uid: infected-mushroom-40
-price: "$40"
 date: 2021-01-27
 sizing: "MEDIUM | Unlisted (cotton/blend)"
 ---

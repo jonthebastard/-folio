@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "SHE WANTS REVENGE"
-uid: she-wants-revenge-40
-price: "$40"
 date: 2021-01-27
 sizing: "LARGE | 100% Cotton | Nylon vs. LNA"
 ---

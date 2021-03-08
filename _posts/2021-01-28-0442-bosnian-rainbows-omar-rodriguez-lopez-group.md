@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "BOSNIAN RAINBOWS (OMAR RODRIGUEZ-LOPEZ GROUP)"
-price: "$40"
-uid: bosnian-rainbows-omar-rodriguez-lopez-group
 date: 2021-01-28
 sizing: "SMALL | 50% Polyester / 25% Combed Cotton / 25% Rayon | American Apparel"
 ---

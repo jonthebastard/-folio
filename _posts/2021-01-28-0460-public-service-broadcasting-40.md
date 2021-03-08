@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "PUBLIC SERVICE BROADCASTING"
-uid: public-service-broadcasting-40
-price: "$40"
 date: 2021-01-28
 sizing: "MEDIUM | Preshrunk 100% Cotton | District"
 ---

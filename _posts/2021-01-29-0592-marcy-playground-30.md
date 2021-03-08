@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "MARCY PLAYGROUND"
-uid: marcy-playground-30
-price: "$30"
 date: 2021-01-29
 sizing: "WOMEN'S LARGE | 100% Combed Cotton | American Apparel"
 ---

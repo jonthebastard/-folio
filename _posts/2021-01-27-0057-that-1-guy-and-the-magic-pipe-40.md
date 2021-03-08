@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THAT 1 GUY AND THE MAGIC PIPE"
-uid: that-1-guy-and-the-magic-pipe-40
-price: "$40"
 date: 2021-01-27
 sizing: "MEDIUM | 100% Combed Cotton | American Apparel"
 ---

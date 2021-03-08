@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "I'M FROM BARCELONA"
-uid: im-from-barcelona-25
-price: "$25"
 date: 2021-01-29
 sizing: "MEDIUM | 100% Cotton | Nick's World"
 ---

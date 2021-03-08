@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "STRAPPING YOUNG LAD"
-uid: strapping-young-lad-40
-price: "$40"
 date: 2021-01-27
 sizing: "LARGE | 100% Preshrunk Cotton | Gildan"
 ---

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THE FIERY FURNACES"
-uid: the-fiery-furnaces-40
-price: "$40"
 date: 2021-01-27
 sizing: "LARGE | 100% Combed Cotton | American Apparel"
 ---

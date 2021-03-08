@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "HARD X MOUTH TAPED SHUT (THE GIRL WITH THE DRAGON TATTOO)"
-price: "$40"
-uid: hard-x-mouth-taped-shut-the-girl-with-the-dragon
 date: 2021-01-29
 sizing: "MEDIUM | 100% Combed Cotton | American Apparel"
 ---

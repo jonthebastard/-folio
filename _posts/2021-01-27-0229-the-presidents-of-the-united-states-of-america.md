@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THE PRESIDENTS OF THE UNITED STATES OF AMERICA"
-price: "$50"
-uid: the-presidents-of-the-united-states-of-america
 date: 2021-01-27
 sizing: "SMALL | 100% Preshrunk Cotton | Port and Company"
 ---

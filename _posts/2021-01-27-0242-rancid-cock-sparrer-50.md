@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "RANCID / COCK SPARRER"
-uid: rancid-cock-sparrer-50
-price: "$50"
 date: 2021-01-27
 sizing: "SMALL | 100% Cotton | Alstyle Apparel & Activewear"
 ---

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THE POLYPHONIC SPREE"
-uid: the-polyphonic-spree-20
-price: "$20"
 date: 2021-01-29
 sizing: "SMALL | 50% Cotton / 50% Polyester | Jerzees"
 ---

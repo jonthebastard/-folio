@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "KAMASI WASHINGTON"
-uid: kamasi-washington-40
-price: "$40"
 date: 2021-01-28
 sizing: "WOMEN'S LARGE | 100% Cotton | Alternative Apparel"
 ---

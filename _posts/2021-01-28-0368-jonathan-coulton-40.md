@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "JONATHAN COULTON"
-uid: jonathan-coulton-40
-price: "$40"
 date: 2021-01-28
 sizing: "MEDIUM | 100% Combed Cotton | American Apparel"
 ---

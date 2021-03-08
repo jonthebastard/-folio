@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "HAMILTON: AN AMERICAN MUSICAL"
-uid: hamilton-an-american-musical-60
-price: "$60"
 date: 2021-01-27
 sizing: "SMALL | 100% Preshrunk Ringspun Cotton | Tultex"
 ---

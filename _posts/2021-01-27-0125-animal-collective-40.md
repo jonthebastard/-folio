@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "ANIMAL COLLECTIVE"
-uid: animal-collective-40
-price: "$40"
 date: 2021-01-27
 sizing: "MEDIUM | 70% Combed Cotton/30% Polyester | Royal Apparel"
 ---

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THE SMASHING PUMPKINS"
-uid: the-smashing-pumpkins-80
-price: "$80"
 date: 2021-01-27
 sizing: "LARGE | 100% Cotton | Drifter"
 ---

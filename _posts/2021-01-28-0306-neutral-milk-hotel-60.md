@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "NEUTRAL MILK HOTEL"
-uid: neutral-milk-hotel-60
-price: "$60"
 date: 2021-01-28
 sizing: "SMALL | 50% Polyester/25% Combed Cotton/25% Rayon | American Apparel"
 ---

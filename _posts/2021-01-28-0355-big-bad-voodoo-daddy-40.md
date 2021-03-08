@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "BIG BAD VOODOO DADDY"
-uid: big-bad-voodoo-daddy-40
-price: "$40"
 date: 2021-01-28
 sizing: "MEDIUM | 100% Cotton | Hanes"
 ---

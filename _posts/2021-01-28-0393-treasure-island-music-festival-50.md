@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "TREASURE ISLAND MUSIC FESTIVAL"
-uid: treasure-island-music-festival-50
-price: "$50"
 date: 2021-01-28
 sizing: "LARGE | Unlisted (cotton/blend) | Hanes"
 ---

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THE WHITE STRIPES"
-uid: the-white-stripes-30
-price: "$30"
 date: 2021-01-29
 sizing: "LARGE | Preshrunk 100% Cotton | Anvil"
 ---

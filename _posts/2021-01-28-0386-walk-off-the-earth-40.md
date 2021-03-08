@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "WALK OFF THE EARTH"
-uid: walk-off-the-earth-40
-price: "$40"
 date: 2021-01-28
 sizing: "MEDIUM | 50% Cotton/50% Polyester | Bay Island Sportswear"
 ---

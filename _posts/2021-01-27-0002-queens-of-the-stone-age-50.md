@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "QUEENS OF THE STONE AGE"
-uid: queens-of-the-stone-age-50
-price: "$50"
 date: 2021-01-27
 sizing: "MEDIUM | 100% Cotton | Tultex"
 ---

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "OUTSIDE LANDS MUSIC & ARTS FESTIVAL"
-uid: outside-lands-music-arts-festival-50
-price: "$50"
 date: 2021-01-29
 sizing: "MEDIUM | 100% Organic Cotton | Alternative Earth"
 ---

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "LOREENA MCKENNITT"
-uid: loreena-mckennitt-40
-price: "$40"
 date: 2021-01-27
 sizing: "SMALL | 100% Combed Cotton | American Apparel"
 ---

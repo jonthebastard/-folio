@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "STONE TEMPLE PILOTS"
-uid: stone-temple-pilots-50
-price: "$50"
 date: 2021-01-27
 sizing: "LARGE | 100% Cotton | Anvil"
 ---

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "JEAN-MICHEL JARRE"
-uid: jean-michel-jarre-50
-price: "$50"
 date: 2021-01-28
 sizing: "SMALL | Unlisted (cotton/blend)"
 ---

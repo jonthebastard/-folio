@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "YOKO ONO & PLASTIC ONO BAND"
-uid: yoko-ono-plastic-ono-band-100
-price: "$100"
 date: 2021-01-27
 sizing: "MEDIUM | 100% Cotton | Chimera Music"
 ---

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THE JOY FORMIDABLE"
-uid: the-joy-formidable-60
-price: "$60"
 date: 2021-01-29
 sizing: "SMALL | 80% Cotton / 20% Polyester"
 ---

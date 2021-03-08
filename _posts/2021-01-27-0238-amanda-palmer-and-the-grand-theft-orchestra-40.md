@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "AMANDA PALMER AND THE GRAND THEFT ORCHESTRA"
-uid: amanda-palmer-and-the-grand-theft-orchestra-40
-price: "$40"
 date: 2021-01-27
 sizing: "SMALL | 50% Combed Cotton/50% Polyester | American Apparel"
 ---

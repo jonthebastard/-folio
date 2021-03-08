@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "FUTURE OF THE LEFT"
-uid: future-of-the-left-40
-price: "$40"
 date: 2021-01-27
 sizing: "SMALL | 100% Combed Cotton | American Apparel"
 ---

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "DAVID BYRNE + ST. VINCENT"
-uid: david-byrne-st-vincent-60
-price: "$60"
 date: 2021-01-28
 sizing: "SMALL | 50% Cotton/50% Polyester | American Apparel"
 ---

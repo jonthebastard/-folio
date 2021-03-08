@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "THE FEROCIOUS FEW"
-uid: the-ferocious-few-30
-price: "$30"
 date: 2021-01-28
 sizing: "MEDIUM | 50% Preshrunk Cotton / 50% Polyester | Port and Company"
 ---

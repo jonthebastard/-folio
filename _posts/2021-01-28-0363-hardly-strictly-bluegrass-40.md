@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "HARDLY STRICTLY BLUEGRASS"
-uid: hardly-strictly-bluegrass-40
-price: "$40"
 date: 2021-01-28
 sizing: "LARGE | 100% Combed Cotton | American Apparel"
 ---

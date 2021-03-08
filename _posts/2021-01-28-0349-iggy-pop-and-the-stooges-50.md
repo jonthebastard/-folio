@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "IGGY POP AND THE STOOGES"
-uid: iggy-pop-and-the-stooges-50
-price: "$50"
 date: 2021-01-28
 sizing: "MEDIUM | 100% Cotton | Bay Island Sportswear"
 ---

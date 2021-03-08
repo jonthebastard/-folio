@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "TREASURE ISLAND MUSIC FESTIVAL"
-uid: treasure-island-music-festival-40
-price: "$40"
 date: 2021-01-27
 sizing: "MEDIUM | 100% Cotton | Alternative Apparel"
 ---

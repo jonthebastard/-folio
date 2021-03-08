@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "HOW TO DESTROY ANGELS"
-uid: how-to-destroy-angels-70
-price: "$70"
 date: 2021-01-27
 sizing: "SMALL | 100% Preshrunk Ringspun Cotton | HTDA"
 ---

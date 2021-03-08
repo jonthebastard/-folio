@@ -2,7 +2,7 @@
 layout: post
 title: "THE LEGENDARY PINK DOTS"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0102/0102-01.jpg
+img: /img/0102-the-legendary-pink-dots.jpg
 ---
 
 

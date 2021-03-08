@@ -2,7 +2,7 @@
 layout: post
 title: "SHE WANTS REVENGE"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0141/0141-01.jpg
+img: /img/0141-she-wants-revenge.jpg
 ---
 
 

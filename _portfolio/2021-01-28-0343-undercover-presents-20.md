@@ -2,7 +2,7 @@
 layout: post
 title: "UNDERCOVER PRESENTS"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0343/0343-01.jpg
+img: /img/0343-undercover-presents.jpg
 ---
 
 

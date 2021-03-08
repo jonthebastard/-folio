@@ -2,7 +2,7 @@
 layout: post
 title: "OUTSIDE LANDS MUSIC & ARTS FESTIVAL"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0163/0163-01.jpg
+img: /img/0163-outside-lands-music-arts-festival.jpg
 ---
 
 

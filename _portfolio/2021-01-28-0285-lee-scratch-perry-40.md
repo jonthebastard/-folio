@@ -2,7 +2,7 @@
 layout: post
 title: "LEE 'SCRATCH' PERRY"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0285/0285-01.jpg
+img: /img/0285-lee-scratch-perry.jpg
 ---
 
 

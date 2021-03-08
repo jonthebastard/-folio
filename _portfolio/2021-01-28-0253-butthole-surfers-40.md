@@ -2,7 +2,7 @@
 layout: post
 title: "BUTTHOLE SURFERS"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0253/0253-01.jpg
+img: /img/0253-butthole-surfers.jpg
 ---
 
 

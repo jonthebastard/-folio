@@ -2,7 +2,7 @@
 layout: post
 title: "THROBBING GRISTLE"
 date: 2021-01-29
-img: https://concertshirts.netlify.app/shirts/0517/0517-01.jpg
+img: /img/0517-throbbing-gristle.jpg
 ---
 
 

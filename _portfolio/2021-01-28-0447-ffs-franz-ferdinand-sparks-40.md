@@ -2,7 +2,7 @@
 layout: post
 title: "FFS (FRANZ FERDINAND + SPARKS)"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0447/0447-01.jpg
+img: /img/0447-ffs-franz-ferdinand-sparks.jpg
 ---
 
 

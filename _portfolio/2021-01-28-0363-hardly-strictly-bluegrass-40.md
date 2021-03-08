@@ -2,7 +2,7 @@
 layout: post
 title: "HARDLY STRICTLY BLUEGRASS"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0363/0363-01.jpg
+img: /img/0363-hardly-strictly-bluegrass.jpg
 ---
 
 

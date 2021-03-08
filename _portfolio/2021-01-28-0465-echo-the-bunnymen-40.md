@@ -2,7 +2,7 @@
 layout: post
 title: "ECHO & THE BUNNYMEN"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0465/0465-01.jpg
+img: /img/0465-echo-the-bunnymen.jpg
 ---
 
 

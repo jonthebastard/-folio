@@ -2,7 +2,7 @@
 layout: post
 title: "THE POLYPHONIC SPREE"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0378/0378-01.jpg
+img: /img/0378-the-polyphonic-spree.jpg
 ---
 
 

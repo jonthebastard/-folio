@@ -2,7 +2,7 @@
 layout: post
 title: "STONE TEMPLE PILOTS"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0004/0004-01.jpg
+img: /img/0004-stone-temple-pilots.jpg
 ---
 
 

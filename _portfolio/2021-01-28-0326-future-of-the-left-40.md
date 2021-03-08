@@ -2,7 +2,7 @@
 layout: post
 title: "FUTURE OF THE LEFT"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0326/0326-01.jpg
+img: /img/0326-future-of-the-left.jpg
 ---
 
 

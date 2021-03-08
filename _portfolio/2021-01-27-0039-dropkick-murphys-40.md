@@ -2,7 +2,7 @@
 layout: post
 title: "DROPKICK MURPHYS"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0039/0039-01.jpg
+img: /img/0039-dropkick-murphys.jpg
 ---
 
 

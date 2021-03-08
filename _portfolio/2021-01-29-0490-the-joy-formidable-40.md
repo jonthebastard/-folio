@@ -2,7 +2,7 @@
 layout: post
 title: "THE JOY FORMIDABLE"
 date: 2021-01-29
-img: https://concertshirts.netlify.app/shirts/0490/0490-01.jpg
+img: /img/0490-the-joy-formidable.jpg
 ---
 
 

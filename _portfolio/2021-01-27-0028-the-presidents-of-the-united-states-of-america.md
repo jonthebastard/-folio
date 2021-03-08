@@ -2,7 +2,7 @@
 layout: post
 title: "THE PRESIDENTS OF THE UNITED STATES OF AMERICA"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0028/0028-01.jpg
+img: /img/0028-the-presidents-of-the-united-states-of-america.jpg
 ---
 
 

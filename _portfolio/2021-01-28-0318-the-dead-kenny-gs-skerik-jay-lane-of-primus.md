@@ -2,7 +2,7 @@
 layout: post
 title: "THE DEAD KENNY G'S (SKERIK + JAY LANE OF PRIMUS)"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0318/0318-01.jpg
+img: /img/0318-the-dead-kenny-gs-skerik-jay-lane-of-primus.jpg
 ---
 
 

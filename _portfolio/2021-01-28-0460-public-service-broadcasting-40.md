@@ -2,7 +2,7 @@
 layout: post
 title: "PUBLIC SERVICE BROADCASTING"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0460/0460-01.jpg
+img: /img/0460-public-service-broadcasting.jpg
 ---
 
 

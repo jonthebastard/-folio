@@ -2,7 +2,7 @@
 layout: post
 title: "THE DREAMING (STABBING WESTWARD)"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0284/0284-01.jpg
+img: /img/0284-the-dreaming-stabbing-westward.jpg
 ---
 
 

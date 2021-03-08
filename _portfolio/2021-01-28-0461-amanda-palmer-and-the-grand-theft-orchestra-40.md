@@ -2,7 +2,7 @@
 layout: post
 title: "AMANDA PALMER AND THE GRAND THEFT ORCHESTRA"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0461/0461-01.jpg
+img: /img/0461-amanda-palmer-and-the-grand-theft-orchestra.jpg
 ---
 
 

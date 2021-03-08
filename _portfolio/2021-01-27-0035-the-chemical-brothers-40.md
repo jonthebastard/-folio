@@ -2,7 +2,7 @@
 layout: post
 title: "THE CHEMICAL BROTHERS"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0035/0035-01.jpg
+img: /img/0035-the-chemical-brothers.jpg
 ---
 
 

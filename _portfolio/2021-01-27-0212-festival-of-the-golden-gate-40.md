@@ -2,7 +2,7 @@
 layout: post
 title: "FESTIVAL OF THE GOLDEN GATE"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0212/0212-01.jpg
+img: /img/0212-festival-of-the-golden-gate.jpg
 ---
 
 

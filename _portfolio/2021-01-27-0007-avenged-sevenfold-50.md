@@ -2,7 +2,7 @@
 layout: post
 title: "AVENGED SEVENFOLD"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0007/0007-01.jpg
+img: /img/0007-avenged-sevenfold.jpg
 ---
 
 

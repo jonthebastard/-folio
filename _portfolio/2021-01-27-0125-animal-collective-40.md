@@ -2,7 +2,7 @@
 layout: post
 title: "ANIMAL COLLECTIVE"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0125/0125-01.jpg
+img: /img/0125-animal-collective.jpg
 ---
 
 

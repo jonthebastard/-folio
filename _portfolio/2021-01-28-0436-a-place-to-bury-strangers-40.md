@@ -2,7 +2,7 @@
 layout: post
 title: "A PLACE TO BURY STRANGERS"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0436/0436-01.jpg
+img: /img/0436-a-place-to-bury-strangers.jpg
 ---
 
 

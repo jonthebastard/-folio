@@ -2,7 +2,7 @@
 layout: post
 title: "KAMASI WASHINGTON"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0208/0208-01.jpg
+img: /img/0208-kamasi-washington.jpg
 ---
 
 

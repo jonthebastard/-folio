@@ -2,7 +2,7 @@
 layout: post
 title: "KELE (OF BLOC PARTY) + DOES IT OFFEND YOU YEAH? + INNERPARTYSYSTEM"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0344/0344-01.jpg
+img: /img/0344-kele-of-bloc-party-does-it-offend-you-yeah.jpg
 ---
 
 

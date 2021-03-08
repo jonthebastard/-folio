@@ -2,7 +2,7 @@
 layout: post
 title: "NEIL GAIMAN & AMANDA PALMER"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0472/0472-01.jpg
+img: /img/0472-neil-gaiman-amanda-palmer.jpg
 ---
 
 

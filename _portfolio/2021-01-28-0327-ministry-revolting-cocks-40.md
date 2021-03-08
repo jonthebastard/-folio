@@ -2,7 +2,7 @@
 layout: post
 title: "MINISTRY / REVOLTING COCKS"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0327/0327-01.jpg
+img: /img/0327-ministry-revolting-cocks.jpg
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "BROKEN LIZARD (OF SUPER TROOPERS FAME)"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0273/0273-01.jpg
+img: /img/0273-broken-lizard-of-super-troopers-fame.jpg
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "THE SMASHING PUMPKINS"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0269/0269-01.jpg
+img: /img/0269-the-smashing-pumpkins.jpg
 ---
 
 

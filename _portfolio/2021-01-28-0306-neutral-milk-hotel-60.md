@@ -2,7 +2,7 @@
 layout: post
 title: "NEUTRAL MILK HOTEL"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0306/0306-01.jpg
+img: /img/0306-neutral-milk-hotel.jpg
 ---
 
 

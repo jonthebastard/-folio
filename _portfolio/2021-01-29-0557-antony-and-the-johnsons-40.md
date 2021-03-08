@@ -2,7 +2,7 @@
 layout: post
 title: "ANTONY AND THE JOHNSONS"
 date: 2021-01-29
-img: https://concertshirts.netlify.app/shirts/0557/0557-01.jpg
+img: /img/0557-antony-and-the-johnsons.jpg
 ---
 
 

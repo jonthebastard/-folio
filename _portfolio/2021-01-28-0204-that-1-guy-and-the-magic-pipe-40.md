@@ -2,7 +2,7 @@
 layout: post
 title: "THAT 1 GUY AND THE MAGIC PIPE"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0204/0204-01.jpg
+img: /img/0204-that-1-guy-and-the-magic-pipe.jpg
 ---
 
 

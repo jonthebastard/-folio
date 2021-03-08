@@ -2,7 +2,7 @@
 layout: post
 title: "THE CRYSTAL METHOD"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0167/0167-01.jpg
+img: /img/0167-the-crystal-method.jpg
 ---
 
 

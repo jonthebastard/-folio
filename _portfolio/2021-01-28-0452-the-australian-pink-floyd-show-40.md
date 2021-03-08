@@ -2,7 +2,7 @@
 layout: post
 title: "THE AUSTRALIAN PINK FLOYD SHOW"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0452/0452-01.jpg
+img: /img/0452-the-australian-pink-floyd-show.jpg
 ---
 
 

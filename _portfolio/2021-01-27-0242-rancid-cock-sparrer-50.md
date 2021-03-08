@@ -2,7 +2,7 @@
 layout: post
 title: "RANCID / COCK SPARRER"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0242/0242-01.jpg
+img: /img/0242-rancid-cock-sparrer.jpg
 ---
 
 

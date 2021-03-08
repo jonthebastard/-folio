@@ -2,7 +2,7 @@
 layout: post
 title: "I'M FROM BARCELONA"
 date: 2021-01-29
-img: https://concertshirts.netlify.app/shirts/0573/0573-01.jpg
+img: /img/0573-im-from-barcelona.jpg
 ---
 
 

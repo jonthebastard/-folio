@@ -2,7 +2,7 @@
 layout: post
 title: "THEY MIGHT BE GIANTS"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0241/0241-01.jpg
+img: /img/0241-they-might-be-giants.jpg
 ---
 
 

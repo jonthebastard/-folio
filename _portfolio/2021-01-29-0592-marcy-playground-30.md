@@ -2,7 +2,7 @@
 layout: post
 title: "MARCY PLAYGROUND"
 date: 2021-01-29
-img: https://concertshirts.netlify.app/shirts/0592/0592-01.jpg
+img: /img/0592-marcy-playground.jpg
 ---
 
 

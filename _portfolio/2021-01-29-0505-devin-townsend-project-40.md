@@ -2,7 +2,7 @@
 layout: post
 title: "DEVIN TOWNSEND PROJECT"
 date: 2021-01-29
-img: https://concertshirts.netlify.app/shirts/0505/0505-01.jpg
+img: /img/0505-devin-townsend-project.jpg
 ---
 
 

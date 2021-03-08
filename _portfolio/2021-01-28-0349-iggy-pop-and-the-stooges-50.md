@@ -2,7 +2,7 @@
 layout: post
 title: "IGGY POP AND THE STOOGES"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0349/0349-01.jpg
+img: /img/0349-iggy-pop-and-the-stooges.jpg
 ---
 
 

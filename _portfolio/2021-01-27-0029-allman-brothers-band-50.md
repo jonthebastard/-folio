@@ -2,7 +2,7 @@
 layout: post
 title: "ALLMAN BROTHERS BAND"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0029/0029-01.jpg
+img: /img/0029-allman-brothers-band.jpg
 ---
 
 

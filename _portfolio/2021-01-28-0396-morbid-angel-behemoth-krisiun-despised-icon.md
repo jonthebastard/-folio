@@ -2,7 +2,7 @@
 layout: post
 title: "MORBID ANGEL / BEHEMOTH / KRISIUN / DESPISED ICON"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0396/0396-01.jpg
+img: /img/0396-morbid-angel-behemoth-krisiun-despised-icon.jpg
 ---
 
 

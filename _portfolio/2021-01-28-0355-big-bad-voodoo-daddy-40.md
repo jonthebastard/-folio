@@ -2,7 +2,7 @@
 layout: post
 title: "BIG BAD VOODOO DADDY"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0355/0355-01.jpg
+img: /img/0355-big-bad-voodoo-daddy.jpg
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "THE WORLD/INFERNO FRIENDSHIP SOCIETY"
 date: 2021-01-29
-img: https://concertshirts.netlify.app/shirts/0539/0539-01.jpg
+img: /img/0539-the-worldinferno-friendship-society.jpg
 ---
 
 

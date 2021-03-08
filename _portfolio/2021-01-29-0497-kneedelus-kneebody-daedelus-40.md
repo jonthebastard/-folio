@@ -2,7 +2,7 @@
 layout: post
 title: "KNEEDELUS (KNEEBODY + DAEDELUS)"
 date: 2021-01-29
-img: https://concertshirts.netlify.app/shirts/0497/0497-01.jpg
+img: /img/0497-kneedelus-kneebody-daedelus.jpg
 ---
 
 

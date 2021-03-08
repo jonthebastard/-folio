@@ -2,7 +2,7 @@
 layout: post
 title: "'WEIRD AL' YANKOVIC"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0193/0193-01.jpg
+img: /img/0193-weird-al-yankovic.jpg
 ---
 
 

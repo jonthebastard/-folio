@@ -2,7 +2,7 @@
 layout: post
 title: "THE WHITE STRIPES"
 date: 2021-01-29
-img: https://concertshirts.netlify.app/shirts/0544/0544-01.jpg
+img: /img/0544-the-white-stripes.jpg
 ---
 
 

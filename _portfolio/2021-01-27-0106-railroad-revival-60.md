@@ -2,7 +2,7 @@
 layout: post
 title: "RAILROAD REVIVAL"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0106/0106-01.jpg
+img: /img/0106-railroad-revival.jpg
 ---
 
 

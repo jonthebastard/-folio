@@ -2,7 +2,7 @@
 layout: post
 title: "STRAWBERRY GIRLS"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0199/0199-01.jpg
+img: /img/0199-strawberry-girls.jpg
 ---
 
 

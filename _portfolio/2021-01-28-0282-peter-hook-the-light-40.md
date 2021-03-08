@@ -2,7 +2,7 @@
 layout: post
 title: "PETER HOOK & THE LIGHT"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0282/0282-01.jpg
+img: /img/0282-peter-hook-the-light.jpg
 ---
 
 

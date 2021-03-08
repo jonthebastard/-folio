@@ -2,7 +2,7 @@
 layout: post
 title: "MINDLESS SELF INDULGENCE"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0026/0026-01.jpg
+img: /img/0026-mindless-self-indulgence.jpg
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "RODRIGO Y GABRIELA"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0066/0066-01.jpg
+img: /img/0066-rodrigo-y-gabriela.jpg
 ---
 
 

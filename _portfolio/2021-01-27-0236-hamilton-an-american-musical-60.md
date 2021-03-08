@@ -2,7 +2,7 @@
 layout: post
 title: "HAMILTON: AN AMERICAN MUSICAL"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0236/0236-01.jpg
+img: /img/0236-hamilton-an-american-musical.jpg
 ---
 
 

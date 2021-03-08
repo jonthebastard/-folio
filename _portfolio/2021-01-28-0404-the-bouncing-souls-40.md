@@ -2,7 +2,7 @@
 layout: post
 title: "THE BOUNCING SOULS"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0404/0404-01.jpg
+img: /img/0404-the-bouncing-souls.jpg
 ---
 
 

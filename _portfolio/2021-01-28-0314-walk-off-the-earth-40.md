@@ -2,7 +2,7 @@
 layout: post
 title: "WALK OFF THE EARTH"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0314/0314-01.jpg
+img: /img/0314-walk-off-the-earth.jpg
 ---
 
 

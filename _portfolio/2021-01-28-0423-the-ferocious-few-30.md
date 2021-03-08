@@ -2,7 +2,7 @@
 layout: post
 title: "THE FEROCIOUS FEW"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0423/0423-01.jpg
+img: /img/0423-the-ferocious-few.jpg
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "THE FIERY FURNACES"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0044/0044-01.jpg
+img: /img/0044-the-fiery-furnaces.jpg
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "QUEENS OF THE STONE AGE"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0002/0002-01.jpg
+img: /img/0002-queens-of-the-stone-age.jpg
 ---
 
 

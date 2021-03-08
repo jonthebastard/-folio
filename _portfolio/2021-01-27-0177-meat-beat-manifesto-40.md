@@ -2,7 +2,7 @@
 layout: post
 title: "MEAT BEAT MANIFESTO"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0177/0177-01.jpg
+img: /img/0177-meat-beat-manifesto.jpg
 ---
 
 

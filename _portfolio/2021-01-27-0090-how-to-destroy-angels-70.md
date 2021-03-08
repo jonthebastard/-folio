@@ -2,7 +2,7 @@
 layout: post
 title: "HOW TO DESTROY ANGELS"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0090/0090-01.jpg
+img: /img/0090-how-to-destroy-angels.jpg
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "TOM MORELLO (RAGE AGAINST THE MACHINE): THE NIGHTWATCHMAN"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0103/0103-01.jpg
+img: /img/0103-tom-morello-rage-against-the-machine-the.jpg
 ---
 
 

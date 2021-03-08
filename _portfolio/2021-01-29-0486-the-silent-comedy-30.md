@@ -2,7 +2,7 @@
 layout: post
 title: "THE SILENT COMEDY"
 date: 2021-01-29
-img: https://concertshirts.netlify.app/shirts/0486/0486-01.jpg
+img: /img/0486-the-silent-comedy.jpg
 ---
 
 

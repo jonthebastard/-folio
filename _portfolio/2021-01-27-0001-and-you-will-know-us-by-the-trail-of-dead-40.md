@@ -2,7 +2,7 @@
 layout: post
 title: "...AND YOU WILL KNOW US BY THE TRAIL OF DEAD"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0001/0001-01.jpg
+img: /img/0001-and-you-will-know-us-by-the-trail-of-dead.jpg
 ---
 
 

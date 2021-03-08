@@ -2,7 +2,7 @@
 layout: post
 title: "LOREENA MCKENNITT"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0213/0213-01.jpg
+img: /img/0213-loreena-mckennitt.jpg
 ---
 
 

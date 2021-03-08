@@ -2,7 +2,7 @@
 layout: post
 title: "JOHN 5 & THE CREATURES"
 date: 2021-01-29
-img: https://concertshirts.netlify.app/shirts/0493/0493-01.jpg
+img: /img/0493-john-5-the-creatures.jpg
 ---
 
 

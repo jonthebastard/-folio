@@ -2,7 +2,7 @@
 layout: post
 title: "THEM CROOKED VULTURES"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0064/0064-01.jpg
+img: /img/0064-them-crooked-vultures.jpg
 ---
 
 

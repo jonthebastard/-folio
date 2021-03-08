@@ -2,7 +2,7 @@
 layout: post
 title: "FRONT LINE ASSEMBLY"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0048/0048-01.jpg
+img: /img/0048-front-line-assembly.jpg
 ---
 
 

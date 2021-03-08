@@ -2,7 +2,7 @@
 layout: post
 title: "THE DRESDEN DOLLS"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0387/0387-01.jpg
+img: /img/0387-the-dresden-dolls.jpg
 ---
 
 

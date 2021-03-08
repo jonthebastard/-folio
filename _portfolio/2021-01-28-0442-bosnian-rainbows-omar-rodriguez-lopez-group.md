@@ -2,7 +2,7 @@
 layout: post
 title: "BOSNIAN RAINBOWS (OMAR RODRIGUEZ-LOPEZ GROUP)"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0442/0442-01.jpg
+img: /img/0442-bosnian-rainbows-omar-rodriguez-lopez-group.jpg
 ---
 
 

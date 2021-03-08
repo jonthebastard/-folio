@@ -2,7 +2,7 @@
 layout: post
 title: "YOKO ONO & PLASTIC ONO BAND"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0060/0060-01.jpg
+img: /img/0060-yoko-ono-plastic-ono-band.jpg
 ---
 
 

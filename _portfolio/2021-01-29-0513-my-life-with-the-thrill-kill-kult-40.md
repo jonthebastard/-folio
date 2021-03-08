@@ -2,7 +2,7 @@
 layout: post
 title: "MY LIFE WITH THE THRILL KILL KULT"
 date: 2021-01-29
-img: https://concertshirts.netlify.app/shirts/0513/0513-01.jpg
+img: /img/0513-my-life-with-the-thrill-kill-kult.jpg
 ---
 
 

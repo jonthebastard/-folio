@@ -2,7 +2,7 @@
 layout: post
 title: "THE REAL MCKENZIES"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0169/0169-01.jpg
+img: /img/0169-the-real-mckenzies.jpg
 ---
 
 

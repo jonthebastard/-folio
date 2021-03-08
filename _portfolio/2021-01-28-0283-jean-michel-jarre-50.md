@@ -2,7 +2,7 @@
 layout: post
 title: "JEAN-MICHEL JARRE"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0283/0283-01.jpg
+img: /img/0283-jean-michel-jarre.jpg
 ---
 
 

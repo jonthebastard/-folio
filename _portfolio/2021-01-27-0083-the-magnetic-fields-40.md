@@ -2,7 +2,7 @@
 layout: post
 title: "THE MAGNETIC FIELDS"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0083/0083-01.jpg
+img: /img/0083-the-magnetic-fields.jpg
 ---
 
 

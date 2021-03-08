@@ -2,7 +2,7 @@
 layout: post
 title: "JAKE SHIMABUKURO"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0479/0479-01.jpg
+img: /img/0479-jake-shimabukuro.jpg
 ---
 
 

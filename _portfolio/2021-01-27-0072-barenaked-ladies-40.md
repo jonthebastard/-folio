@@ -2,7 +2,7 @@
 layout: post
 title: "BARENAKED LADIES"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0072/0072-01.jpg
+img: /img/0072-barenaked-ladies.jpg
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "THE JON SPENCER BLUES EXPLOSION"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0324/0324-01.jpg
+img: /img/0324-the-jon-spencer-blues-explosion.jpg
 ---
 
 

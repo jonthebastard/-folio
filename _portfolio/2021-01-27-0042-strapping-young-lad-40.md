@@ -2,7 +2,7 @@
 layout: post
 title: "STRAPPING YOUNG LAD"
 date: 2021-01-27
-img: https://concertshirts.netlify.app/shirts/0042/0042-01.jpg
+img: /img/0042-strapping-young-lad.jpg
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "THE JESUS AND MARY CHAIN"
 date: 2021-01-29
-img: https://concertshirts.netlify.app/shirts/0488/0488-01.jpg
+img: /img/0488-the-jesus-and-mary-chain.jpg
 ---
 
 

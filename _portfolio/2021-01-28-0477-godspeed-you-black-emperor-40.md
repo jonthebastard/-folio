@@ -2,7 +2,7 @@
 layout: post
 title: "GODSPEED YOU! BLACK EMPEROR"
 date: 2021-01-28
-img: https://concertshirts.netlify.app/shirts/0477/0477-01.jpg
+img: /img/0477-godspeed-you-black-emperor.jpg
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "GLEN HANSARD (THE SWELL SEASON / THE FRAMES)"
 date: 2021-01-29
-img: https://concertshirts.netlify.app/shirts/0581/0581-01.jpg
+img: /img/0581-glen-hansard-the-swell-season-the-frames.jpg
 ---
 
 

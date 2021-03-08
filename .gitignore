@@ -8,3 +8,4 @@ cache/
 *.py*
 *.sh
 shirts/.DS_Store
+node_modules/

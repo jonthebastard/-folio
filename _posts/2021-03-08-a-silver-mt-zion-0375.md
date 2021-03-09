@@ -12,6 +12,4 @@ img: /img/0375-a-silver-mt-zion.jpg
       <figure class="tmblr-full" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0375/0375-01.jpg"><img src="https://64.media.tumblr.com/62017692c88e01f341d9e322af21b361/a53ef2f71d8aebd8-c3/s540x810/ed799c4f256f011483a66c819179656ee6c2a195.jpg" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0375/0375-01.jpg"/></figure></td>
     <td style="vertical-align:top;">
       <figure class="tmblr-full" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0375/0375-02.jpg"><img src="https://64.media.tumblr.com/420feb61ebd2205294eb24ce3404dc75/a53ef2f71d8aebd8-e7/s540x810/844370d472ada0bd7d0b5826bb4a99bb7b21618d.jpg" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0375/0375-02.jpg"/></figure></td>
-  </tr></table><p>
-  MEDIUM | 100% Bamboo | Jerico
-</p>
+  </tr></table>

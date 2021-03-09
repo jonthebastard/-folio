@@ -12,6 +12,4 @@ img: /img/0574-arctic-monkeys.jpg
       <figure class="tmblr-full" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0574/0574-01.jpg"><img src="https://64.media.tumblr.com/6af52b6d50519931e1e3378328b03201/faea2da0909784d1-e4/s540x810/6293012a0dd5f386378de103570b01b68ca13154.jpg" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0574/0574-01.jpg"/></figure></td>
     <td style="vertical-align:top;">
       <figure class="tmblr-full" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0574/0574-02.jpg"><img src="https://64.media.tumblr.com/f3f268b477d41cc05231a12f2cee2448/faea2da0909784d1-f2/s540x810/45891391bec4a9c77b7a88b10c95ba0720f987af.jpg" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0574/0574-02.jpg"/></figure></td>
-  </tr></table><p>
-  MEDIUM | 50% Combed Cotton / 50% Polyester | American Apparel
-</p>
+  </tr></table>

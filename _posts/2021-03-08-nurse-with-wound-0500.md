@@ -12,6 +12,4 @@ img: /img/0500-nurse-with-wound.jpg
       <figure class="tmblr-full" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0500/0500-01.jpg"><img src="https://64.media.tumblr.com/d9fb8e7c0c0e9959d1a2796edcc09d0f/8717c04eeaf9b8f5-1d/s540x810/8adeee655203859260ecb51f03d428c23be4b4be.jpg" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0500/0500-01.jpg"/></figure></td>
     <td style="vertical-align:top;">
       <figure class="tmblr-full" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0500/0500-02.jpg"><img src="https://64.media.tumblr.com/dc771e2801971011b9cf9feeb9e07402/8717c04eeaf9b8f5-e9/s540x810/dedac3b34a26d4a0efaa032a774df44d18960f92.jpg" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0500/0500-02.jpg"/></figure></td>
-  </tr></table><p>
-  Nurse With Wound | Inaugural Public Incident // Great American Music Hall 2006<br/>LARGE | Preshrunk 100% Cotton | Anvil
-</p>
+  </tr></table>

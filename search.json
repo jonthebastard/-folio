@@ -2,10 +2,11 @@
 layout: none
 ---
 [
-  {% for post in site.posts %}
+  {% for post in site.posts reversed %}
     {
       "title"    : "{{ post.title | escape }}",
       "category" : "{{ post.category }}",
+      "img"      : "{{ post.img | img_url: 'x100' }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date }}"

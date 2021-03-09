@@ -2,12 +2,7 @@
 layout: page
 ---
 
-<div class="header-bar">
-  <h1>HEYBUYMYSHIT.COM</h1>
-  <h2>2003-2019 concert merchandise for sale</h2>
-</div>
-
-{% for project in site.portfolio %}
+{% for project in site.posts reversed %}
 
 {% if project.redirect %}
 <div class="project">

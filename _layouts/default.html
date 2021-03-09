@@ -22,9 +22,9 @@
         searchInput: document.getElementById('search-input'),
         resultsContainer: document.getElementById('results-container'),
         json: '{{ site.baseurl }}/search.json',
-        searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
+        searchResultTemplate: '<li><a class="search-item" href="{url}?query={query}" title="{desc}"><img src="{img}" style="vertical-align:middle" height="50px"> {title}</a></li>',
         noResultsText: 'no results found',
-        limit: 10,
+        limit: 25,
         fuzzy: false,
         exclude: ['about', 'artist list']
       })

@@ -4,6 +4,7 @@ title: "BROKEN LIZARD (OF SUPER TROOPERS FAME)"
 description: "MEDIUM | 100% Combed Ringspun Cotton | Tultex"
 date: 2021-03-08
 img: /img/0273-broken-lizard-of-super-troopers-fame.jpg
+ebay_id: 233925077994
 ---
 
 

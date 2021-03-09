@@ -4,6 +4,7 @@ title: "CARPENTER BRUT"
 description: "SMALL | 100% Cotton | Gildan"
 date: 2021-03-08
 img: /img/0492-carpenter-brut.jpg
+ebay_id: 233925078284
 ---
 
 

@@ -4,6 +4,7 @@ title: "MINDLESS SELF INDULGENCE"
 description: "MEDIUM | Preshrunk 100% Ringspun Cotton | Tultex"
 date: 2021-03-08
 img: /img/0329-mindless-self-indulgence.jpg
+ebay_id: 233925078078
 ---
 
 

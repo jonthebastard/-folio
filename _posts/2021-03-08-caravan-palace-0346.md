@@ -4,6 +4,7 @@ title: "CARAVAN PALACE"
 description: "SMALL | 100% Combed Cotton | American Apparel"
 date: 2021-03-08
 img: /img/0346-caravan-palace.jpg
+ebay_id: 233925078089
 ---
 
 

@@ -4,6 +4,7 @@ title: "THE MAGNETIC FIELDS"
 description: "SMALL | 100% Preshrunk Cotton | Hanes"
 date: 2021-03-08
 img: /img/0489-the-magnetic-fields.jpg
+ebay_id: 233925078295
 ---
 
 

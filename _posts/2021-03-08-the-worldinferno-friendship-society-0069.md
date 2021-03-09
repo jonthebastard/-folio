@@ -4,6 +4,7 @@ title: "THE WORLD/INFERNO FRIENDSHIP SOCIETY"
 description: "MEDIUM | 100% Cotton | Fruit of the Loom"
 date: 2021-03-08
 img: /img/0069-the-worldinferno-friendship-society.jpg
+ebay_id: 233925077696
 ---
 
 

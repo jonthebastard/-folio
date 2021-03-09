@@ -4,6 +4,7 @@ title: "THE MAGNETIC FIELDS"
 description: "MEDIUM | 50% Combed Cotton 50% Polyester | Royal Apparel"
 date: 2021-03-08
 img: /img/0083-the-magnetic-fields.jpg
+ebay_id: 233925077755
 ---
 
 

@@ -4,6 +4,7 @@ title: "GOGOL BORDELLO"
 description: "SMALL | Preshrunk 100% Ringspun Cotton | Tultex"
 date: 2021-03-08
 img: /img/0569-gogol-bordello.jpg
+ebay_id: 233925078414
 ---
 
 

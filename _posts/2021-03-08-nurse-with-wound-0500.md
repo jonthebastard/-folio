@@ -4,6 +4,7 @@ title: "NURSE WITH WOUND"
 description: "LARGE | Preshrunk 100% Cotton | Anvil"
 date: 2021-03-08
 img: /img/0500-nurse-with-wound.jpg
+ebay_id: 233925078314
 ---
 
 

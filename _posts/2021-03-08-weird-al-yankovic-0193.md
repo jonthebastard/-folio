@@ -4,6 +4,7 @@ title: "'WEIRD AL' YANKOVIC"
 description: "MEDIUM | 100% Preshrunk Cotton | Anvil"
 date: 2021-03-08
 img: /img/0193-weird-al-yankovic.jpg
+ebay_id: 233925077867
 ---
 
 

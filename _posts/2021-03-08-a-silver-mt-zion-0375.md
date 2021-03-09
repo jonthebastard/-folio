@@ -4,6 +4,7 @@ title: "A SILVER MT. ZION"
 description: "MEDIUM | 100% Bamboo | Jerico"
 date: 2021-03-08
 img: /img/0375-a-silver-mt-zion.jpg
+ebay_id: 233925078128
 ---
 
 

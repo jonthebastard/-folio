@@ -4,6 +4,7 @@ title: "DIE ROTEN PUNKTE"
 description: "SMALL | 100% Preshrunk Cotton | Gildan"
 date: 2021-03-08
 img: /img/0211-die-roten-punkte.jpg
+ebay_id: 233925077898
 ---
 
 

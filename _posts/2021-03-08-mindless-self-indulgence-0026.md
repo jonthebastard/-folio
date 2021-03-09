@@ -4,6 +4,7 @@ title: "MINDLESS SELF INDULGENCE"
 description: "LARGE | 75% Cotton/25% Polyester | Alternative Apparel"
 date: 2021-03-08
 img: /img/0026-mindless-self-indulgence.jpg
+ebay_id: 233925077743
 ---
 
 

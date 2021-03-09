@@ -4,6 +4,7 @@ title: "THEM CROOKED VULTURES"
 description: "MEDIUM | 100% Preshrunk Cotton | TCV (brand not listed)"
 date: 2021-03-08
 img: /img/0064-them-crooked-vultures.jpg
+ebay_id: 233925077763
 ---
 
 

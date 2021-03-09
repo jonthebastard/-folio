@@ -4,6 +4,7 @@ title: "SONATA ARCTICA"
 description: "SMALL | 100% Cotton | Gildan"
 date: 2021-03-08
 img: /img/0189-sonata-arctica.jpg
+ebay_id: 233925077875
 ---
 
 

@@ -4,6 +4,7 @@ title: "THROBBING GRISTLE"
 description: "MEDIUM | 100% Cotton Preshrunk | Gildan"
 date: 2021-03-08
 img: /img/0517-throbbing-gristle.jpg
+ebay_id: 233925078330
 ---
 
 

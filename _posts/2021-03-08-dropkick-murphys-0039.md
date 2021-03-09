@@ -4,6 +4,7 @@ title: "DROPKICK MURPHYS"
 description: "MEDIUM | 100% Preshrunk Cotton | Bayside"
 date: 2021-03-08
 img: /img/0039-dropkick-murphys.jpg
+ebay_id: 233925077668
 ---
 
 

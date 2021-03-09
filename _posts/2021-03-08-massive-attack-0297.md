@@ -4,6 +4,7 @@ title: "MASSIVE ATTACK"
 description: "MEDIUM | 100% Combed Cotton | American Apparel"
 date: 2021-03-08
 img: /img/0297-massive-attack.jpg
+ebay_id: 233925078020
 ---
 
 

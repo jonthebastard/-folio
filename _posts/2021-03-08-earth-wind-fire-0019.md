@@ -4,6 +4,7 @@ title: "EARTH WIND & FIRE"
 description: "MEDIUM | 100% Preshrunk Combed Ringspun Cotton | Tultex"
 date: 2021-03-08
 img: /img/0019-earth-wind-fire.jpg
+ebay_id: 233925077674
 ---
 
 

@@ -4,6 +4,7 @@ title: "PITBULL DAYCARE"
 description: "LARGE | 100% Cotton | Jerzees"
 date: 2021-03-08
 img: /img/0547-pitbull-daycare.jpg
+ebay_id: 233925078380
 ---
 
 

@@ -4,6 +4,7 @@ title: "PIERCED ARROWS"
 description: "MEDIUM | 50% Preshrunk Cotton / 50% Polyester | Hanes"
 date: 2021-03-08
 img: /img/0437-pierced-arrows.jpg
+ebay_id: 233925078207
 ---
 
 

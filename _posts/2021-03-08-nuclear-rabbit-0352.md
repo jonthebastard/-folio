@@ -4,6 +4,7 @@ title: "NUCLEAR RABBIT"
 description: "LARGE | 100% Preshrunk Cotton | Anvil"
 date: 2021-03-08
 img: /img/0352-nuclear-rabbit.jpg
+ebay_id: 233925078101
 ---
 
 

@@ -4,6 +4,7 @@ title: "PATRICK WATSON"
 description: "SMALL | 100% Combed Cotton | American Apparel"
 date: 2021-03-08
 img: /img/0256-patrick-watson.jpg
+ebay_id: 233925077959
 ---
 
 

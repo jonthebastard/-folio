@@ -4,6 +4,7 @@ title: "PETER HOOK & THE LIGHT"
 description: "MEDIUM | 100% Preshrunk Cotton | Hanes"
 date: 2021-03-08
 img: /img/0232-peter-hook-the-light.jpg
+ebay_id: 233925077964
 ---
 
 

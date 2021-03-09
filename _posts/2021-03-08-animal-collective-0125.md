@@ -4,6 +4,7 @@ title: "ANIMAL COLLECTIVE"
 description: "MEDIUM | 70% Combed Cotton/30% Polyester | Royal Apparel"
 date: 2021-03-08
 img: /img/0125-animal-collective.jpg
+ebay_id: 233925077795
 ---
 
 

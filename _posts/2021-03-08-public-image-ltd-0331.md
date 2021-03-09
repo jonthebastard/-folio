@@ -4,6 +4,7 @@ title: "PUBLIC IMAGE LTD"
 description: "MEDIUM | Preshrunk 100% Ringspun Cotton | Tultex"
 date: 2021-03-08
 img: /img/0331-public-image-ltd.jpg
+ebay_id: 233925078076
 ---
 
 

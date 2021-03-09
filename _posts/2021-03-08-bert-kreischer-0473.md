@@ -4,6 +4,7 @@ title: "BERT KREISCHER"
 description: "SMALL | 100% Cotton Preshrunk | Gildan"
 date: 2021-03-08
 img: /img/0473-bert-kreischer.jpg
+ebay_id: 233925078269
 ---
 
 

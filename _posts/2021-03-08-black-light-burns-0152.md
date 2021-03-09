@@ -4,6 +4,7 @@ title: "BLACK LIGHT BURNS"
 description: "MEDIUM | 100% Preshrunk Combed Ringspun Cotton | Tultex"
 date: 2021-03-08
 img: /img/0152-black-light-burns.jpg
+ebay_id: 233925077816
 ---
 
 

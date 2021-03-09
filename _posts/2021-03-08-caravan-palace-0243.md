@@ -4,6 +4,7 @@ title: "CARAVAN PALACE"
 description: "SMALL | 100% Preshrunk Ringspun Cotton | Tultex"
 date: 2021-03-08
 img: /img/0243-caravan-palace.jpg
+ebay_id: 233925077955
 ---
 
 

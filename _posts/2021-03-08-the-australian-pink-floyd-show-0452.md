@@ -4,6 +4,7 @@ title: "THE AUSTRALIAN PINK FLOYD SHOW"
 description: "MEDIUM | Preshrunk 100% Cotton | Anvil"
 date: 2021-03-08
 img: /img/0452-the-australian-pink-floyd-show.jpg
+ebay_id: 233925078243
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "...AND YOU WILL KNOW US BY THE TRAIL OF DEAD"
+description: "SMALL | 100% Cotton | Anvil"
 date: 2021-03-08
 img: /img/0001-and-you-will-know-us-by-the-trail-of-dead.jpg
 ---

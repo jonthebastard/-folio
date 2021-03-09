@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "FLOGGING MOLLY"
+description: "LARGE | 100% Preshrunk Cotton | Alstyle Apparel &amp; Activewear"
 date: 2021-03-08
 img: /img/0150-flogging-molly.jpg
 ---

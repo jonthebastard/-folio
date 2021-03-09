@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "RODRIGO Y GABRIELA"
+description: "MEDIUM | 100% Organic Cotton | Anvil"
 date: 2021-03-08
 img: /img/0428-rodrigo-y-gabriela.jpg
 ---

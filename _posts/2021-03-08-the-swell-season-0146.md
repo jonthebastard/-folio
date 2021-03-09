@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "THE SWELL SEASON"
+description: "LARGE | 100% Preshrunk Cotton | Gaziani by Alstyle"
 date: 2021-03-08
 img: /img/0146-the-swell-season.jpg
 ---

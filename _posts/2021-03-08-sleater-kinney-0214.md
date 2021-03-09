@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SLEATER-KINNEY"
+description: "SMALL | 100% Combed Cotton | American Apparel"
 date: 2021-03-08
 img: /img/0214-sleater-kinney.jpg
 ---

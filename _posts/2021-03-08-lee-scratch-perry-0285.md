@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "LEE 'SCRATCH' PERRY"
+description: "LARGE | 100% Preshrunk Cotton | Gildan"
 date: 2021-03-08
 img: /img/0285-lee-scratch-perry.jpg
 ---

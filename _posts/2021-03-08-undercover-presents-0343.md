@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "UNDERCOVER PRESENTS"
+description: "SMALL | 100% Cotton | Next Level apparel"
 date: 2021-03-08
 img: /img/0343-undercover-presents.jpg
 ---

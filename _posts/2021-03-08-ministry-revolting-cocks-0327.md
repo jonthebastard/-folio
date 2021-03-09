@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "MINISTRY / REVOLTING COCKS"
+description: "LARGE | 100% Preshrunk Cotton | Murina"
 date: 2021-03-08
 img: /img/0327-ministry-revolting-cocks.jpg
 ---

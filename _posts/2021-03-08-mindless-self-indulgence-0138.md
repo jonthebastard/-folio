@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "MINDLESS SELF INDULGENCE"
+description: "MEDIUM | 100% Preshrunk Cotton | Murina"
 date: 2021-03-08
 img: /img/0138-mindless-self-indulgence.jpg
 ---

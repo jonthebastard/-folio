@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "THE WHITE STRIPES"
+description: "LARGE | Preshrunk 100% Cotton | Anvil"
 date: 2021-03-08
 img: /img/0544-the-white-stripes.jpg
 ---

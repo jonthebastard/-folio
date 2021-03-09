@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "MAYNARD JAMES KEENAN"
+description: "MEDIUM | 100% Cotton | Canvas"
 date: 2021-03-08
 img: /img/0119-maynard-james-keenan.jpg
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "RAILROAD REVIVAL"
+description: "MEDIUM | 50% Polyester/25% Combed Cotton/25% Rayon | American Apparel"
 date: 2021-03-08
 img: /img/0106-railroad-revival.jpg
 ---

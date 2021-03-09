@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "GODSPEED YOU! BLACK EMPEROR"
+description: "MEDIUM | 100% Organic Cotton | Earth Positive"
 date: 2021-03-08
 img: /img/0504-godspeed-you-black-emperor.jpg
 ---

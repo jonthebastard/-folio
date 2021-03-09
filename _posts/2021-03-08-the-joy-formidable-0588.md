@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "THE JOY FORMIDABLE"
+description: "SMALL | 80% Cotton / 20% Polyester"
 date: 2021-03-08
 img: /img/0588-the-joy-formidable.jpg
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "NURSE WITH WOUND"
+description: "LARGE | Preshrunk 100% Cotton | Anvil"
 date: 2021-03-08
 img: /img/0500-nurse-with-wound.jpg
 ---

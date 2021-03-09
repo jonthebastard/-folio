@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "QUEENS OF THE STONE AGE"
+description: "MEDIUM | 100% Cotton | Tultex"
 date: 2021-03-08
 img: /img/0002-queens-of-the-stone-age.jpg
 ---

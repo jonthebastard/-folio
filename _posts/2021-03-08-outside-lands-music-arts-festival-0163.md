@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "OUTSIDE LANDS MUSIC & ARTS FESTIVAL"
+description: "MEDIUM | 100% Organic Cotton | Alternative Apparel"
 date: 2021-03-08
 img: /img/0163-outside-lands-music-arts-festival.jpg
 ---

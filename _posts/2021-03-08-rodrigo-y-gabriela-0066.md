@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "RODRIGO Y GABRIELA"
+description: "MEDIUM | Unlisted (cotton/blend) | Earth Positive"
 date: 2021-03-08
 img: /img/0066-rodrigo-y-gabriela.jpg
 ---

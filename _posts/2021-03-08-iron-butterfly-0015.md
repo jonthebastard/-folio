@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "IRON BUTTERFLY"
+description: "LARGE | 100% Cotton | Gildan"
 date: 2021-03-08
 img: /img/0015-iron-butterfly.jpg
 ---

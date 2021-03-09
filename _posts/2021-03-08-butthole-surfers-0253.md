@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "BUTTHOLE SURFERS"
+description: "SMALL | 100% Preshrunk Cotton | Gildan"
 date: 2021-03-08
 img: /img/0253-butthole-surfers.jpg
 ---

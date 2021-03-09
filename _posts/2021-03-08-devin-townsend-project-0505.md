@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DEVIN TOWNSEND PROJECT"
+description: "SMALL | 100% Preshrunk Cotton | Anvil"
 date: 2021-03-08
 img: /img/0505-devin-townsend-project.jpg
 ---

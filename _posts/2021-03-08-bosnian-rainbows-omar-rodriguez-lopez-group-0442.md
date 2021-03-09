@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "BOSNIAN RAINBOWS (OMAR RODRIGUEZ-LOPEZ GROUP)"
+description: "SMALL | 50% Polyester / 25% Combed Cotton / 25% Rayon | American Apparel"
 date: 2021-03-08
 img: /img/0442-bosnian-rainbows-omar-rodriguez-lopez-group.jpg
 ---

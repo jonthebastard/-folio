@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "FLOGGING MOLLY"
+description: "SMALL | Preshrunk 100% Cotton"
 date: 2021-03-08
 img: /img/0390-flogging-molly.jpg
 ---

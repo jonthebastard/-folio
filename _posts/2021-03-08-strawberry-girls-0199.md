@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "STRAWBERRY GIRLS"
+description: "SMALL | 100% Ringspun Cotton | Tultex"
 date: 2021-03-08
 img: /img/0199-strawberry-girls.jpg
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "THE DRESDEN DOLLS"
+description: "LARGE | 100% Cotton | Fruit of the Loom"
 date: 2021-03-08
 img: /img/0552-the-dresden-dolls.jpg
 ---

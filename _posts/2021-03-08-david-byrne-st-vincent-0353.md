@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "DAVID BYRNE + ST. VINCENT"
+description: "SMALL | 50% Cotton/50% Polyester | American Apparel"
 date: 2021-03-08
 img: /img/0353-david-byrne-st-vincent.jpg
 ---

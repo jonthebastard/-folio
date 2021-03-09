@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "THE FLAMING LIPS"
+description: "MEDIUM | Unlisted (cotton/blend)/A | Warpaint"
 date: 2021-03-08
 img: /img/0481-the-flaming-lips.jpg
 ---

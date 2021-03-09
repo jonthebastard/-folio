@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "OTTMAR LIEBERT"
+description: "LARGE | Preshrunk 100% Cotton | Anvil"
 date: 2021-03-08
 img: /img/0567-ottmar-liebert.jpg
 ---

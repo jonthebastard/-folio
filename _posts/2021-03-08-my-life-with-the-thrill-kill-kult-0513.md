@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "MY LIFE WITH THE THRILL KILL KULT"
+description: "MEDIUM | 100% Cotton | Fruit of the Loom"
 date: 2021-03-08
 img: /img/0513-my-life-with-the-thrill-kill-kult.jpg
 ---

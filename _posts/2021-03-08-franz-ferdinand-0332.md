@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "FRANZ FERDINAND"
+description: "MEDIUM | 100% Combed Cotton | US Tees"
 date: 2021-03-08
 img: /img/0332-franz-ferdinand.jpg
 ---

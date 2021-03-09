@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "STRAPPING YOUNG LAD"
+description: "LARGE | 100% Preshrunk Cotton | Gildan"
 date: 2021-03-08
 img: /img/0042-strapping-young-lad.jpg
 ---

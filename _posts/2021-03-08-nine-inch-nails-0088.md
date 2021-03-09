@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "NINE INCH NAILS"
+description: "LARGE | 100% Cotton"
 date: 2021-03-08
 img: /img/0088-nine-inch-nails.jpg
 ---

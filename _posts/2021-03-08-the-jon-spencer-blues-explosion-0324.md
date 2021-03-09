@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "THE JON SPENCER BLUES EXPLOSION"
+description: "MEDIUM | 100% Cotton | Next Level apparel"
 date: 2021-03-08
 img: /img/0324-the-jon-spencer-blues-explosion.jpg
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "THE WORLD/INFERNO FRIENDSHIP SOCIETY"
+description: "SMALL | 50% Cotton / 50% Polyester | Gildan"
 date: 2021-03-08
 img: /img/0539-the-worldinferno-friendship-society.jpg
 ---

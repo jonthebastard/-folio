@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "BIG BAD VOODOO DADDY"
+description: "MEDIUM | 100% Cotton | Hanes"
 date: 2021-03-08
 img: /img/0355-big-bad-voodoo-daddy.jpg
 ---

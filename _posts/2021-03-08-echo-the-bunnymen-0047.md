@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ECHO & THE BUNNYMEN"
+description: "MEDIUM | 100% Cotton | Hanes"
 date: 2021-03-08
 img: /img/0047-echo-the-bunnymen.jpg
 ---

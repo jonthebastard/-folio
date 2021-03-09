@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "THE JANE AUSTEN ARGUMENT"
+description: "MEDIUM | Unlisted (cotton/blend) | Hanes"
 date: 2021-03-08
 img: /img/0421-the-jane-austen-argument.jpg
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "THE POLYPHONIC SPREE"
+description: "SMALL | 50% Cotton / 50% Polyester | Jerzees"
 date: 2021-03-08
 img: /img/0541-the-polyphonic-spree.jpg
 ---

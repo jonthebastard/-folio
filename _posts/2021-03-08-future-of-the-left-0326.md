@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "FUTURE OF THE LEFT"
+description: "SMALL | 100% Preshrunk Cotton | Gildan"
 date: 2021-03-08
 img: /img/0326-future-of-the-left.jpg
 ---

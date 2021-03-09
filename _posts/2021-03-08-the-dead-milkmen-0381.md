@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "THE DEAD MILKMEN"
+description: "MEDIUM | Preshrunk 100% Cotton | Anvil"
 date: 2021-03-08
 img: /img/0381-the-dead-milkmen.jpg
 ---

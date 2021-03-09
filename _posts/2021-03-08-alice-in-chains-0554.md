@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ALICE IN CHAINS"
+description: "MEDIUM | 100% Combed Cotton Preshrunk | Royal Apparel"
 date: 2021-03-08
 img: /img/0554-alice-in-chains.jpg
 ---

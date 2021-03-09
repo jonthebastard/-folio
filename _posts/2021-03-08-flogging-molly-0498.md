@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "FLOGGING MOLLY"
+description: "SMALL | 100% Cotton | Gildan"
 date: 2021-03-08
 img: /img/0498-flogging-molly.jpg
 ---

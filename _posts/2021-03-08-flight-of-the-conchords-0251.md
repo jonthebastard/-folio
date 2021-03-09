@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "FLIGHT OF THE CONCHORDS"
+description: "SMALL | Preshrunk 65% Polyester/35% Ringspun Cotton | Tultex"
 date: 2021-03-08
 img: /img/0251-flight-of-the-conchords.jpg
 ---

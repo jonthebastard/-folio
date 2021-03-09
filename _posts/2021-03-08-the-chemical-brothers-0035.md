@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "THE CHEMICAL BROTHERS"
+description: "MEDIUM | 100% Combed Cotton | Ten"
 date: 2021-03-08
 img: /img/0035-the-chemical-brothers.jpg
 ---

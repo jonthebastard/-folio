@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ATOMS FOR PEACE"
+description: "MEDIUM | 50% Recycled PPreshrunk T Bambooottles/50% Cotton | W.A.S.T.E."
 date: 2021-03-08
 img: /img/0049-atoms-for-peace.jpg
 ---

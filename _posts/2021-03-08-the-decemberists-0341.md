@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "THE DECEMBERISTS"
+description: "MEDIUM | 100% Combed Cotton | American Apparel"
 date: 2021-03-08
 img: /img/0341-the-decemberists.jpg
 ---

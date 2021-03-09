@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SHE WANTS REVENGE"
+description: "LARGE | 100% Cotton | Nylon vs. LNA"
 date: 2021-03-08
 img: /img/0144-she-wants-revenge.jpg
 ---

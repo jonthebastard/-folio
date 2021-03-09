@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "CARPENTER BRUT"
+description: "SMALL | 100% Cotton | Kariban"
 date: 2021-03-08
 img: /img/0583-carpenter-brut.jpg
 ---

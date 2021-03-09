@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "IGGY POP AND THE STOOGES"
+description: "MEDIUM | 100% Cotton | Bay Island Sportswear"
 date: 2021-03-08
 img: /img/0349-iggy-pop-and-the-stooges.jpg
 ---

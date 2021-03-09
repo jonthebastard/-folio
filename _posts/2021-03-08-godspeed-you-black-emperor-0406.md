@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "GODSPEED YOU! BLACK EMPEROR"
+description: "LARGE | 100% Organic Cotton | Alternative Earth"
 date: 2021-03-08
 img: /img/0406-godspeed-you-black-emperor.jpg
 ---

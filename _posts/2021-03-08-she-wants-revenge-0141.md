@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SHE WANTS REVENGE"
+description: "LARGE | 100% Cotton | Pacific"
 date: 2021-03-08
 img: /img/0141-she-wants-revenge.jpg
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SPOEK MATHAMBO"
+description: "MEDIUM | 50% Combed Cotton/50% Polyester | American Apparel"
 date: 2021-03-08
 img: /img/0231-spoek-mathambo.jpg
 ---

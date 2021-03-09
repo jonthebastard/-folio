@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "GOGOL BORDELLO"
+description: "LARGE | 100% Combed Cotton | American Apparel"
 date: 2021-03-08
 img: /img/0173-gogol-bordello.jpg
 ---

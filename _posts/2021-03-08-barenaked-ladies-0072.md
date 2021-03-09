@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "BARENAKED LADIES"
+description: "LARGE | 100% Preshrunk Cotton | M&amp;O Knits"
 date: 2021-03-08
 img: /img/0072-barenaked-ladies.jpg
 ---

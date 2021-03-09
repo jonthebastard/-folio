@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "HOW TO DESTROY ANGELS"
+description: "SMALL | 100% Preshrunk Ringspun Cotton | HTDA"
 date: 2021-03-08
 img: /img/0090-how-to-destroy-angels.jpg
 ---

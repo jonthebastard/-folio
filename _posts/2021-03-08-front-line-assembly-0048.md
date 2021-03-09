@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "FRONT LINE ASSEMBLY"
+description: "WOMEN'S LARGE | 100% Ringspun Cotton | Tultex"
 date: 2021-03-08
 img: /img/0048-front-line-assembly.jpg
 ---

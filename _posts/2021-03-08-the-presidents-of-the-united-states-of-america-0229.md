@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "THE PRESIDENTS OF THE UNITED STATES OF AMERICA"
+description: "SMALL | 100% Cotton | Canvas"
 date: 2021-03-08
 img: /img/0229-the-presidents-of-the-united-states-of-america.jpg
 ---

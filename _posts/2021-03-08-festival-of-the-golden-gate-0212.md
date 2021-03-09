@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "FESTIVAL OF THE GOLDEN GATE"
+description: "MEDIUM | 100% Preshrunk Cotton | Port and Company"
 date: 2021-03-08
 img: /img/0212-festival-of-the-golden-gate.jpg
 ---

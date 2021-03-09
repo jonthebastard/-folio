@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "GODSPEED YOU! BLACK EMPEROR"
+description: "MEDIUM | Unlisted (cotton/blend) | Alternative Earth"
 date: 2021-03-08
 img: /img/0178-godspeed-you-black-emperor.jpg
 ---

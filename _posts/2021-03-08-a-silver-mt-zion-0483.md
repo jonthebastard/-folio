@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A SILVER MT. ZION"
+description: "SMALL | 100% Cotton | Next Level apparel"
 date: 2021-03-08
 img: /img/0483-a-silver-mt-zion.jpg
 ---

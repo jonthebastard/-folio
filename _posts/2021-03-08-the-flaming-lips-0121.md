@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "THE FLAMING LIPS"
+description: "MEDIUM | 100% Cotton"
 date: 2021-03-08
 img: /img/0121-the-flaming-lips.jpg
 ---

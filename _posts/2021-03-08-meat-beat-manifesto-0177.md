@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "MEAT BEAT MANIFESTO"
+description: "MEDIUM | 100% Preshrunk Ringspun Cotton | Tultex"
 date: 2021-03-08
 img: /img/0177-meat-beat-manifesto.jpg
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "THE DREAMING (STABBING WESTWARD)"
+description: "SMALL | 100% Cotton | Alstyle Apparel &amp; Activewear"
 date: 2021-03-08
 img: /img/0284-the-dreaming-stabbing-westward.jpg
 ---

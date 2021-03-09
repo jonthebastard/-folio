@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "VERMILLION LIES"
+description: "MEDIUM | 100% Combed Cotton | American Apparel"
 date: 2021-03-08
 img: /img/0586-vermillion-lies.jpg
 ---

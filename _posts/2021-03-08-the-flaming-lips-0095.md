@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "THE FLAMING LIPS"
+description: "MEDIUM | 100% Preshrunk Combed Ringspun Cotton | Tultex"
 date: 2021-03-08
 img: /img/0095-the-flaming-lips.jpg
 ---

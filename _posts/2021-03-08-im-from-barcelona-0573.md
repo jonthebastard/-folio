@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I'M FROM BARCELONA"
+description: "MEDIUM | 100% Cotton | Nick's World"
 date: 2021-03-08
 img: /img/0573-im-from-barcelona.jpg
 ---

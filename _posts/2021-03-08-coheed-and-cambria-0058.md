@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "COHEED AND CAMBRIA"
+description: "LARGE | 100% Preshrunk Cotton | Hanes"
 date: 2021-03-08
 img: /img/0058-coheed-and-cambria.jpg
 ---

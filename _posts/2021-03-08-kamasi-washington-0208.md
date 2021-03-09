@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "KAMASI WASHINGTON"
+description: "SMALL | 100% Cotton | Canvas"
 date: 2021-03-08
 img: /img/0208-kamasi-washington.jpg
 ---

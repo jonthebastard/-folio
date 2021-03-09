@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "THE JESUS AND MARY CHAIN"
+description: "LARGE | 100% Cotton | Gildan"
 date: 2021-03-08
 img: /img/0187-the-jesus-and-mary-chain.jpg
 ---

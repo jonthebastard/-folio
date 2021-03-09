@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "VIDEO GAMES LIVE"
+description: "MEDIUM | 100% Cotton | Apparel Whiz"
 date: 2021-03-08
 img: /img/0070-video-games-live.jpg
 ---

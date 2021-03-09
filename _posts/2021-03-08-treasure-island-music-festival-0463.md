@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "TREASURE ISLAND MUSIC FESTIVAL"
+description: "MEDIUM | 100% Cotton | Hanes"
 date: 2021-03-08
 img: /img/0463-treasure-island-music-festival.jpg
 ---

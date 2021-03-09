@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "GOGOL BORDELLO"
+description: "MEDIUM | 100% Preshrunk Cotton | Anvil"
 date: 2021-03-08
 img: /img/0117-gogol-bordello.jpg
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ALLMAN BROTHERS BAND"
+description: "MEDIUM | 100% Preshrunk Cotton | Gildan"
 date: 2021-03-08
 img: /img/0029-allman-brothers-band.jpg
 ---

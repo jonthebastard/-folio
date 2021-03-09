@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ALICE IN CHAINS"
+description: "MEDIUM | 100% Cotton | Bay Island Sportswear"
 date: 2021-03-08
 img: /img/0005-alice-in-chains.jpg
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "THE SMASHING PUMPKINS"
+description: "LARGE | 100% Cotton | Drifter"
 date: 2021-03-08
 img: /img/0101-the-smashing-pumpkins.jpg
 ---

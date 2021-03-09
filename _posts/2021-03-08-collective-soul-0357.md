@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "COLLECTIVE SOUL"
+description: "MEDIUM | Unlisted (cotton/blend)/A | Control"
 date: 2021-03-08
 img: /img/0357-collective-soul.jpg
 ---

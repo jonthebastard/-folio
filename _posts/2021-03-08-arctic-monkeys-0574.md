@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ARCTIC MONKEYS"
+description: "MEDIUM | 50% Combed Cotton / 50% Polyester | American Apparel"
 date: 2021-03-08
 img: /img/0574-arctic-monkeys.jpg
 ---

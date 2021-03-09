@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ALICE IN CHAINS"
+description: "MEDIUM | Preshrunk 100% Ringspun Cotton | tultex"
 date: 2021-03-08
 img: /img/0549-alice-in-chains.jpg
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "TRANS-SIBERIAN ORCHESTRA"
+description: "LARGE | 100% Preshrunk Cotton | Anvil"
 date: 2021-03-08
 img: /img/0082-trans-siberian-orchestra.jpg
 ---

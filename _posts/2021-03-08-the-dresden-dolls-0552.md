@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "THE DRESDEN DOLLS"
-date: 2021-01-29
+date: 2021-03-08
 img: /img/0552-the-dresden-dolls.jpg
 ---
 

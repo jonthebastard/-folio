@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "KELE (OF BLOC PARTY) + DOES IT OFFEND YOU YEAH? + INNERPARTYSYSTEM"
-date: 2021-01-28
+date: 2021-03-08
 img: /img/0344-kele-of-bloc-party-does-it-offend-you-yeah.jpg
 ---
 

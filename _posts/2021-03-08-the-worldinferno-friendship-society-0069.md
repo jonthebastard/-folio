@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "THE WORLD/INFERNO FRIENDSHIP SOCIETY"
-date: 2021-01-27
+date: 2021-03-08
 img: /img/0069-the-worldinferno-friendship-society.jpg
 ---
 

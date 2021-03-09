@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PUBLIC IMAGE LTD"
-date: 2021-01-28
+date: 2021-03-08
 img: /img/0331-public-image-ltd.jpg
 ---
 

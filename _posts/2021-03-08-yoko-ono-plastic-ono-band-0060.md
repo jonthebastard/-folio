@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "YOKO ONO & PLASTIC ONO BAND"
-date: 2021-01-27
+date: 2021-03-08
 img: /img/0060-yoko-ono-plastic-ono-band.jpg
 ---
 

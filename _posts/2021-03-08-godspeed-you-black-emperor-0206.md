@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GODSPEED YOU! BLACK EMPEROR"
-date: 2021-01-28
+date: 2021-03-08
 img: /img/0206-godspeed-you-black-emperor.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "QUEENS OF THE STONE AGE"
-date: 2021-01-27
+date: 2021-03-08
 img: /img/0002-queens-of-the-stone-age.jpg
 ---
 

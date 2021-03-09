@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DROPKICK MURPHYS"
-date: 2021-01-27
+date: 2021-03-08
 img: /img/0039-dropkick-murphys.jpg
 ---
 

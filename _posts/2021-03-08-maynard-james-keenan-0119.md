@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MAYNARD JAMES KEENAN"
-date: 2021-01-27
+date: 2021-03-08
 img: /img/0119-maynard-james-keenan.jpg
 ---
 

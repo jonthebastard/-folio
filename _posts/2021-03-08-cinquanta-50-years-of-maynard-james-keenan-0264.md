@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CINQUANTA: 50 YEARS OF MAYNARD JAMES KEENAN"
-date: 2021-01-28
+date: 2021-03-08
 img: /img/0264-cinquanta-50-years-of-maynard-james-keenan.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NINE INCH NAILS"
-date: 2021-01-27
+date: 2021-03-08
 img: /img/0089-nine-inch-nails.jpg
 ---
 

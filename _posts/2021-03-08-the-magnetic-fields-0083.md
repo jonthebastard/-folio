@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "THE MAGNETIC FIELDS"
-date: 2021-01-27
+date: 2021-03-08
 img: /img/0083-the-magnetic-fields.jpg
 ---
 

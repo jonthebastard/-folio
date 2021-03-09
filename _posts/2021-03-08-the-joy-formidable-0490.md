@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "THE JOY FORMIDABLE"
-date: 2021-01-29
+date: 2021-03-08
 img: /img/0490-the-joy-formidable.jpg
 ---
 

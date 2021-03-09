@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AMANDA PALMER AND THE GRAND THEFT ORCHESTRA"
-date: 2021-01-27
+date: 2021-03-08
 img: /img/0238-amanda-palmer-and-the-grand-theft-orchestra.jpg
 ---
 

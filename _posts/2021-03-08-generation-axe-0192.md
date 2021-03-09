@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GENERATION AXE"
-date: 2021-01-28
+date: 2021-03-08
 img: /img/0192-generation-axe.jpg
 ---
 

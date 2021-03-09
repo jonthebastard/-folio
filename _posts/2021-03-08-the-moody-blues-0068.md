@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "THE MOODY BLUES"
-date: 2021-01-27
+date: 2021-03-08
 img: /img/0068-the-moody-blues.jpg
 ---
 

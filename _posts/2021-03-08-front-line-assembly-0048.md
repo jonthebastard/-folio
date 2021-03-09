@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FRONT LINE ASSEMBLY"
-date: 2021-01-27
+date: 2021-03-08
 img: /img/0048-front-line-assembly.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MY LIFE WITH THE THRILL KILL KULT"
-date: 2021-01-29
+date: 2021-03-08
 img: /img/0513-my-life-with-the-thrill-kill-kult.jpg
 ---
 

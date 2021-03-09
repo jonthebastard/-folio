@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MINDLESS SELF INDULGENCE"
-date: 2021-01-28
+date: 2021-03-08
 img: /img/0329-mindless-self-indulgence.jpg
 ---
 

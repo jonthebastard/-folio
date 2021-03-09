@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "THE JANE AUSTEN ARGUMENT"
-date: 2021-01-28
+date: 2021-03-08
 img: /img/0421-the-jane-austen-argument.jpg
 ---
 

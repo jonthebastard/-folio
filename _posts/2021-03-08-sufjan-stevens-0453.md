@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SUFJAN STEVENS"
-date: 2021-01-28
+date: 2021-03-08
 img: /img/0453-sufjan-stevens.jpg
 ---
 

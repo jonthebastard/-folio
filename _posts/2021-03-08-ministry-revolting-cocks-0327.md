@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MINISTRY / REVOLTING COCKS"
-date: 2021-01-28
+date: 2021-03-08
 img: /img/0327-ministry-revolting-cocks.jpg
 ---
 

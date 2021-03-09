@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NEIL GAIMAN & AMANDA PALMER"
-date: 2021-01-28
+date: 2021-03-08
 img: /img/0472-neil-gaiman-amanda-palmer.jpg
 ---
 

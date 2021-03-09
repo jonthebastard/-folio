@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ATOMS FOR PEACE"
-date: 2021-01-27
+date: 2021-03-08
 img: /img/0049-atoms-for-peace.jpg
 ---
 

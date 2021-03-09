@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DIE ROTEN PUNKTE"
-date: 2021-01-27
+date: 2021-03-08
 img: /img/0211-die-roten-punkte.jpg
 ---
 

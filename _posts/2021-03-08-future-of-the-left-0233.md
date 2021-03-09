@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FUTURE OF THE LEFT"
-date: 2021-01-27
+date: 2021-03-08
 img: /img/0233-future-of-the-left.jpg
 ---
 

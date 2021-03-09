@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "THE BOUNCING SOULS"
-date: 2021-01-28
+date: 2021-03-08
 img: /img/0404-the-bouncing-souls.jpg
 ---
 

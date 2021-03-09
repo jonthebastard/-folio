@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ECHO & THE BUNNYMEN"
-date: 2021-01-27
+date: 2021-03-08
 img: /img/0047-echo-the-bunnymen.jpg
 ---
 

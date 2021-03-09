@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "JEAN-MICHEL JARRE"
-date: 2021-01-28
+date: 2021-03-08
 img: /img/0283-jean-michel-jarre.jpg
 ---
 

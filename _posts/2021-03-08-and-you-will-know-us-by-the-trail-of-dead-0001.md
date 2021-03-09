@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "...AND YOU WILL KNOW US BY THE TRAIL OF DEAD"
-date: 2021-01-27
+date: 2021-03-08
 img: /img/0001-and-you-will-know-us-by-the-trail-of-dead.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "THE SMASHING PUMPKINS"
-date: 2021-01-28
+date: 2021-03-08
 img: /img/0269-the-smashing-pumpkins.jpg
 ---
 

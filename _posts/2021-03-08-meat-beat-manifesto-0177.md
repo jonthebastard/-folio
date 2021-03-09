@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MEAT BEAT MANIFESTO"
-date: 2021-01-27
+date: 2021-03-08
 img: /img/0177-meat-beat-manifesto.jpg
 ---
 

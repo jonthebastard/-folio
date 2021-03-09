@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "THE DEAD KENNY G'S (SKERIK + JAY LANE OF PRIMUS)"
-date: 2021-01-28
+date: 2021-03-08
 img: /img/0318-the-dead-kenny-gs-skerik-jay-lane-of-primus.jpg
 ---
 

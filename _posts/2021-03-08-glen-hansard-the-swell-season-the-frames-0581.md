@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GLEN HANSARD (THE SWELL SEASON / THE FRAMES)"
-date: 2021-01-29
+date: 2021-03-08
 img: /img/0581-glen-hansard-the-swell-season-the-frames.jpg
 ---
 

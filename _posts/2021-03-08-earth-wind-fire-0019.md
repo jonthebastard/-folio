@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "EARTH WIND & FIRE"
-date: 2021-01-27
+date: 2021-03-08
 img: /img/0019-earth-wind-fire.jpg
 ---
 

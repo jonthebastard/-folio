@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A PLACE TO BURY STRANGERS"
-date: 2021-01-28
+date: 2021-03-08
 img: /img/0436-a-place-to-bury-strangers.jpg
 ---
 

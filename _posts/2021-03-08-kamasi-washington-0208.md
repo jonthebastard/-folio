@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "KAMASI WASHINGTON"
-date: 2021-01-28
+date: 2021-03-08
 img: /img/0208-kamasi-washington.jpg
 ---
 

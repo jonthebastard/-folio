@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OTTMAR LIEBERT"
-date: 2021-01-29
+date: 2021-03-08
 img: /img/0567-ottmar-liebert.jpg
 ---
 

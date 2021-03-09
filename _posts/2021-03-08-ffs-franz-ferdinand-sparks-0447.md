@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FFS (FRANZ FERDINAND + SPARKS)"
-date: 2021-01-28
+date: 2021-03-08
 img: /img/0447-ffs-franz-ferdinand-sparks.jpg
 ---
 

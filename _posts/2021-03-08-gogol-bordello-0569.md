@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GOGOL BORDELLO"
-date: 2021-01-29
+date: 2021-03-08
 img: /img/0569-gogol-bordello.jpg
 ---
 

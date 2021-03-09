@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IGGY POP AND THE STOOGES"
-date: 2021-01-28
+date: 2021-03-08
 img: /img/0349-iggy-pop-and-the-stooges.jpg
 ---
 

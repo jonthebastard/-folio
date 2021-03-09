@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://hbmsdotcom.netlify.app/"
+  to = "https://heybuymyshit.com/"
+  status = 301
+  force = true

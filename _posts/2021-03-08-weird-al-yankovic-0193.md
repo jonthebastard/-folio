@@ -12,5 +12,5 @@ img: /img/0193-weird-al-yankovic.jpg
     <td style="vertical-align:top;">
       <figure class="tmblr-full" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0193/0193-02.jpg"><img src="https://64.media.tumblr.com/53d6925d1e19b87f2600a824563a7648/10c1118972a600ca-95/s540x810/f6488aa9b1cbbe6a289531b891cb5fb89f92ef93.jpg" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0193/0193-02.jpg"/></figure></td>
   </tr></table><p>
-  &lsquo;Weird Al&rsquo; Yankovic | Alpocalypse Tour 2011<br/>MEDIUM | 100% Preshrunk Cotton | Anvil
+  'Weird Al' Yankovic | Alpocalypse Tour 2011<br/>MEDIUM | 100% Preshrunk Cotton | Anvil
 </p>

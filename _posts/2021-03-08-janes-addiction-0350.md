@@ -12,5 +12,5 @@ img: /img/0350-janes-addiction.jpg
     <td style="vertical-align:top;">
       <figure class="tmblr-full" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0350/0350-02.jpg"><img src="https://64.media.tumblr.com/772c4239f30978a7de1b28742e15cdc3/060b921ec8f4aa2e-45/s540x810/c3993d121b55b4edcec174be3bd1f52b5e2f369e.jpg" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0350/0350-02.jpg"/></figure></td>
   </tr></table><p>
-  Jane&rsquo;s Addiction | 2012 Tour<br/>SMALL | 100% Preshrunk Cotton | Gildan
+  Jane's Addiction | 2012 Tour<br/>SMALL | 100% Preshrunk Cotton | Gildan
 </p>

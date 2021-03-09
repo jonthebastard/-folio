@@ -12,5 +12,5 @@ img: /img/0048-front-line-assembly.jpg
     <td style="vertical-align:top;">
       <figure class="tmblr-full" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0048/0048-02.jpg"><img src="https://64.media.tumblr.com/d26368fe3f3d5695c4fa042b6368edcd/68db053a11596428-58/s540x810/d60208d61d42d5405690893eaf75d7457161d376.jpg" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0048/0048-02.jpg"/></figure></td><td class="sold-overlay"><p class="sold-text">ON HOLD</p></td>
   </tr></table><p>
-  WOMEN&rsquo;S LARGE | 100% Ringspun Cotton | Tultex
+  WOMEN'S LARGE | 100% Ringspun Cotton | Tultex
 </p>

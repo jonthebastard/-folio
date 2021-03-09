@@ -12,5 +12,5 @@ img: /img/0178-godspeed-you-black-emperor.jpg
     <td style="vertical-align:top;">
       <figure class="tmblr-full" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0178/0178-02.jpg"><img src="https://64.media.tumblr.com/a753864de253213f3a5dd78af84580a0/94eaedc4b988878a-cc/s540x810/3be3c051cbafb3aecb0d19c8342ec07a88627da5.jpg" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0178/0178-02.jpg"/></figure></td>
   </tr></table><p>
-  Godspeed You! Black Emperor | Allelujah Don&rsquo;t Bend Ascend<br/>MEDIUM | Unlisted (cotton/blend) | Alternative Earth
+  Godspeed You! Black Emperor | Allelujah Don't Bend Ascend<br/>MEDIUM | Unlisted (cotton/blend) | Alternative Earth
 </p>

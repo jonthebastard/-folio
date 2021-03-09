@@ -12,5 +12,5 @@ img: /img/0492-carpenter-brut.jpg
     <td style="vertical-align:top;">
       <figure class="tmblr-full" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0492/0492-02.jpg"><img src="https://64.media.tumblr.com/b76c51a2a8d2fce59ca5f549723808d3/03a59b09d46312f0-5b/s540x810/28677d79a4b435e6250da70e49684cf1961216d3.jpg" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0492/0492-02.jpg"/></figure></td>
   </tr></table><p>
-  Carpenter Brut | North American Tour &lsquo;1987&rsquo; (2017)<br/>SMALL | 100% Cotton | Gildan
+  Carpenter Brut | North American Tour '1987' (2017)<br/>SMALL | 100% Cotton | Gildan
 </p>

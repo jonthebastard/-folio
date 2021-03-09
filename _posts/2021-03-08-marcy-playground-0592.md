@@ -12,5 +12,5 @@ img: /img/0592-marcy-playground.jpg
     <td style="vertical-align:top;">
       <figure class="tmblr-full" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0592/0592-02.jpg"><img src="https://64.media.tumblr.com/49cb621ead1a450ba0e42311dcf1dbcb/7445839ce8702f13-6a/s540x810/e9de43aaaed77df865c694d900de07338189bae2.jpg" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0592/0592-02.jpg"/></figure></td>
   </tr></table><p>
-  WOMEN&rsquo;S LARGE | 100% Combed Cotton | American Apparel
+  WOMEN'S LARGE | 100% Combed Cotton | American Apparel
 </p>

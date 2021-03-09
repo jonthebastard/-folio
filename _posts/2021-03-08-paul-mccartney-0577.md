@@ -12,5 +12,5 @@ img: /img/0577-paul-mccartney.jpg
     <td style="vertical-align:top;">
       <figure class="tmblr-full" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0577/0577-02.jpg"><img src="https://64.media.tumblr.com/8c252c378cc2331a8748378a0b28c803/fa673037120622f8-5b/s540x810/53c8244715f686e8e2ed09ba73bf2d92eb2c242c.jpg" data-orig-height="2048" data-orig-width="1365" data-orig-src="https://concertshirts.netlify.app/shirts/0577/0577-02.jpg"/></figure></td>
   </tr></table><p>
-  Paul McCartney | Out There 2014 Tour<br/>WOMEN&rsquo;S LARGE | Preshrunk 100% Cotton
+  Paul McCartney | Out There 2014 Tour<br/>WOMEN'S LARGE | Preshrunk 100% Cotton
 </p>

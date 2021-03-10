@@ -6,6 +6,5 @@ _site/
 .jekyll-metadata
 cache/
 *.py*
-*.sh
 shirts/.DS_Store
 node_modules/

@@ -4,7 +4,7 @@ title: "THE JON SPENCER BLUES EXPLOSION"
 description: "MEDIUM | 100% Cotton | Next Level apparel"
 date: 2021-03-08
 img: /img/0324-the-jon-spencer-blues-explosion.jpg
-ebay_id: 233925078059
+ebay_id: 233989913387 233925078059
 ---
 
 

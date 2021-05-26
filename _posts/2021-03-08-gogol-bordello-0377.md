@@ -4,7 +4,7 @@ title: "GOGOL BORDELLO"
 description: "LARGE | 100% Cotton | Gildan"
 date: 2021-03-08
 img: /img/0377-gogol-bordello.jpg
-ebay_id: 233925078114
+ebay_id: 233989913433 233925078114
 ---
 
 

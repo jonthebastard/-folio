@@ -4,7 +4,7 @@ title: "NEIL GAIMAN & AMANDA PALMER"
 description: "MEDIUM | 100% Cotton | Hanes"
 date: 2021-03-08
 img: /img/0472-neil-gaiman-amanda-palmer.jpg
-ebay_id: 233925078265
+ebay_id: 233989913533 233925078265
 ---
 
 

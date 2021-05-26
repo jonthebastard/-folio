@@ -4,7 +4,7 @@ title: "JAKE SHIMABUKURO"
 description: "MEDIUM | Unlisted (cotton/blend)"
 date: 2021-03-08
 img: /img/0479-jake-shimabukuro.jpg
-ebay_id: 233925078276
+ebay_id: 233989913536 233925078276
 ---
 
 

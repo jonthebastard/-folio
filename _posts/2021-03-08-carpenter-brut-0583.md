@@ -4,7 +4,7 @@ title: "CARPENTER BRUT"
 description: "SMALL | 100% Cotton | Kariban"
 date: 2021-03-08
 img: /img/0583-carpenter-brut.jpg
-ebay_id: 233925078419
+ebay_id: 233989913638 233925078419
 ---
 
 

@@ -4,7 +4,7 @@ title: "GOGOL BORDELLO"
 description: "SMALL | 100% Preshrunk Cotton | M&amp;O Knits"
 date: 2021-03-08
 img: /img/0526-gogol-bordello.jpg
-ebay_id: 233925078348
+ebay_id: 233989913590 233925078348
 ---
 
 

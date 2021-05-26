@@ -4,7 +4,7 @@ title: "OTTMAR LIEBERT"
 description: "LARGE | Preshrunk 100% Cotton | Anvil"
 date: 2021-03-08
 img: /img/0567-ottmar-liebert.jpg
-ebay_id: 233925078404
+ebay_id: 233989913631 233925078404
 ---
 
 

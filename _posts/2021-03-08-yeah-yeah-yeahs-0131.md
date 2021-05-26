@@ -4,7 +4,7 @@ title: "YEAH YEAH YEAHS"
 description: "MEDIUM | 100% Combed Cotton | American Apparel"
 date: 2021-03-08
 img: /img/0131-yeah-yeah-yeahs.jpg
-ebay_id: 233925077790
+ebay_id: 233989913170 233925077790
 ---
 
 

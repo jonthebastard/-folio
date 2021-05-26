@@ -4,7 +4,7 @@ title: "THE MAGNETIC FIELDS"
 description: "MEDIUM | 100% Combed Cotton | American Apparel"
 date: 2021-03-08
 img: /img/0309-the-magnetic-fields.jpg
-ebay_id: 233925078026
+ebay_id: 233989913376 233925078026
 ---
 
 

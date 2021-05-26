@@ -4,7 +4,7 @@ title: "AMANDA PALMER AND THE GRAND THEFT ORCHESTRA"
 description: "SMALL | 100% Preshrunk Cotton | Anvil"
 date: 2021-03-08
 img: /img/0238-amanda-palmer-and-the-grand-theft-orchestra.jpg
-ebay_id: 233925077951
+ebay_id: 233989913314 233925077951
 ---
 
 

@@ -4,7 +4,7 @@ title: "THE STONE FOXES"
 description: "LARGE | 100% Preshrunk Ringspun Cotton | Tultex"
 date: 2021-03-08
 img: /img/0225-the-stone-foxes.jpg
-ebay_id: 233925077923
+ebay_id: 233989913294 233925077923
 ---
 
 

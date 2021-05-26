@@ -4,7 +4,7 @@ title: "COLLECTIVE SOUL"
 description: "MEDIUM | Unlisted (cotton/blend)/A | Control"
 date: 2021-03-08
 img: /img/0357-collective-soul.jpg
-ebay_id: 233925078103
+ebay_id: 233989913419 233925078103
 ---
 
 

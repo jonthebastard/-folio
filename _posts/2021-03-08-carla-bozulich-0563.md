@@ -4,7 +4,7 @@ title: "CARLA BOZULICH"
 description: "LARGE | 100% Cotton Preshrunk | Gildan"
 date: 2021-03-08
 img: /img/0563-carla-bozulich.jpg
-ebay_id: 233925078393
+ebay_id: 233989913622 233925078393
 ---
 
 

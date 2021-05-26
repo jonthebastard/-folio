@@ -4,7 +4,7 @@ title: "GODSPEED YOU! BLACK EMPEROR"
 description: "SMALL | Unlisted (cotton/blend) | Alternative"
 date: 2021-03-08
 img: /img/0206-godspeed-you-black-emperor.jpg
-ebay_id: 233925077894
+ebay_id: 233989913273 233925077894
 ---
 
 

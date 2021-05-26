@@ -4,7 +4,7 @@ title: "BELLE & SEBASTIAN"
 description: "MEDIUM | 100% Combed Cotton | American Apparel"
 date: 2021-03-08
 img: /img/0052-belle-sebastian.jpg
-ebay_id: 233989913189 233925077704
+ebay_id: 233989913189
 ---
 
 

@@ -4,7 +4,7 @@ title: "THE MOODY BLUES"
 description: "MEDIUM | 100% Cotton | US Blanks"
 date: 2021-03-08
 img: /img/0068-the-moody-blues.jpg
-ebay_id: 233989913134 233925077738
+ebay_id: 233989913134
 ---
 
 

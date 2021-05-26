@@ -4,7 +4,7 @@ title: "RANCID / COCK SPARRER"
 description: "MEDIUM | 100% Preshrunk Cotton | Gildan"
 date: 2021-03-08
 img: /img/0242-rancid-cock-sparrer.jpg
-ebay_id: 233989913317 233925077953
+ebay_id: 233989913317
 ---
 
 

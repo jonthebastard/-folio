@@ -4,7 +4,7 @@ title: "NEUTRAL MILK HOTEL"
 description: "SMALL | 50% Polyester/25% Combed Cotton/25% Rayon | American Apparel"
 date: 2021-03-08
 img: /img/0306-neutral-milk-hotel.jpg
-ebay_id: 233989913380 233925078030
+ebay_id: 233989913380
 ---
 
 

@@ -4,7 +4,7 @@ title: "JÓNSI (SIGUR RÓS)"
 description: "MEDIUM | 100% Organic Cotton | Earth Positive"
 date: 2021-03-08
 img: /img/0303-jónsi-sigur-rós.jpg
-ebay_id: 233989913369 233925078018
+ebay_id: 233989913369
 ---
 
 

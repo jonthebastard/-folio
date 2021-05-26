@@ -4,7 +4,7 @@ title: "AVENGED SEVENFOLD"
 description: "LARGE | 100% Preshrunk Cotton | Delta ProWeight"
 date: 2021-03-08
 img: /img/0007-avenged-sevenfold.jpg
-ebay_id: 233989913147 233925077680
+ebay_id: 233989913147
 ---
 
 

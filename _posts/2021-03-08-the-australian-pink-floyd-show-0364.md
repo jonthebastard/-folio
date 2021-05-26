@@ -4,7 +4,7 @@ title: "THE AUSTRALIAN PINK FLOYD SHOW"
 description: "MEDIUM | Preshrunk 100% Ringspun Cotton | Tultex"
 date: 2021-03-08
 img: /img/0364-the-australian-pink-floyd-show.jpg
-ebay_id: 233989913441 233925078099
+ebay_id: 233989913441
 ---
 
 

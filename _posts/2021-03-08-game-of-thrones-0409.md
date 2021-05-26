@@ -4,7 +4,7 @@ title: "GAME OF THRONES"
 description: "SMALL | 100% Cotton | Gildan"
 date: 2021-03-08
 img: /img/0409-game-of-thrones.jpg
-ebay_id: 233989913463 233925078170
+ebay_id: 233989913463
 ---
 
 

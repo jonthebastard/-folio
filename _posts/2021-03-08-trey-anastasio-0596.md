@@ -4,7 +4,7 @@ title: "TREY ANASTASIO"
 description: "MEDIUM | 100% Combed Cotton Preshrunk | Royal Apparel"
 date: 2021-03-08
 img: /img/0596-trey-anastasio.jpg
-ebay_id: 233989913637 233925078438
+ebay_id: 233989913637
 ---
 
 

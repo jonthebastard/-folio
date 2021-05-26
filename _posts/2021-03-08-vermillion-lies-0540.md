@@ -4,7 +4,7 @@ title: "VERMILLION LIES"
 description: "MEDIUM | 100% Combed Organic Cotton | American Apparel"
 date: 2021-03-08
 img: /img/0540-vermillion-lies.jpg
-ebay_id: 233989913601 233925078370
+ebay_id: 233989913601
 ---
 
 

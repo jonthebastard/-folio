@@ -4,7 +4,7 @@ title: "THE DECEMBERISTS"
 description: "MEDIUM | 100% Combed Cotton | American Apparel"
 date: 2021-03-08
 img: /img/0317-the-decemberists.jpg
-ebay_id: 233989913385 233925078040
+ebay_id: 233989913385
 ---
 
 

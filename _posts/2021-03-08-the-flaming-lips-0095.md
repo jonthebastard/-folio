@@ -4,7 +4,7 @@ title: "THE FLAMING LIPS"
 description: "MEDIUM | 100% Preshrunk Combed Ringspun Cotton | Tultex"
 date: 2021-03-08
 img: /img/0095-the-flaming-lips.jpg
-ebay_id: 233989913102 233925077777
+ebay_id: 233989913102
 ---
 
 

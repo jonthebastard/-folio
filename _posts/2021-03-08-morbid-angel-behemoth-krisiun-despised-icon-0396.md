@@ -4,7 +4,7 @@ title: "MORBID ANGEL / BEHEMOTH / KRISIUN / DESPISED ICON"
 description: "LARGE | 100% Preshrunk Cotton | Anvil"
 date: 2021-03-08
 img: /img/0396-morbid-angel-behemoth-krisiun-despised-icon.jpg
-ebay_id: 233989913455 233925078154
+ebay_id: 233989913455
 ---
 
 

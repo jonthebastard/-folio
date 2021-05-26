@@ -4,7 +4,7 @@ title: "NINE INCH NAILS"
 description: "SMALL | 100% Cotton | Next Level apparel"
 date: 2021-03-08
 img: /img/0093-nine-inch-nails.jpg
-ebay_id: 233989913187 233925077670
+ebay_id: 233989913187
 ---
 
 

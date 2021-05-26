@@ -4,7 +4,7 @@ title: "SLEATER-KINNEY"
 description: "SMALL | 100% Combed Cotton | American Apparel"
 date: 2021-03-08
 img: /img/0214-sleater-kinney.jpg
-ebay_id: 233989913282 233925077912
+ebay_id: 233989913282
 ---
 
 

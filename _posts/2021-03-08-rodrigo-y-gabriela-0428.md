@@ -4,7 +4,7 @@ title: "RODRIGO Y GABRIELA"
 description: "MEDIUM | 100% Organic Cotton | Anvil"
 date: 2021-03-08
 img: /img/0428-rodrigo-y-gabriela.jpg
-ebay_id: 233989913483 233925078210
+ebay_id: 233989913483
 ---
 
 

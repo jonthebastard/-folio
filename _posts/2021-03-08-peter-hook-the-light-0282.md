@@ -4,7 +4,7 @@ title: "PETER HOOK & THE LIGHT"
 description: "MEDIUM | 100% Cotton | Alstyle Apparel &amp; Activewear"
 date: 2021-03-08
 img: /img/0282-peter-hook-the-light.jpg
-ebay_id: 233989913337 233925077991
+ebay_id: 233989913337
 ---
 
 

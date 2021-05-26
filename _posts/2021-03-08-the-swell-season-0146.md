@@ -4,7 +4,7 @@ title: "THE SWELL SEASON"
 description: "LARGE | 100% Preshrunk Cotton | Gaziani by Alstyle"
 date: 2021-03-08
 img: /img/0146-the-swell-season.jpg
-ebay_id: 233989913214 233925077809
+ebay_id: 233989913214
 ---
 
 

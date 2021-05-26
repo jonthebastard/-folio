@@ -4,7 +4,7 @@ title: "GOGOL BORDELLO"
 description: "MEDIUM | 100% Cotton | Alternative Apparel"
 date: 2021-03-08
 img: /img/0161-gogol-bordello.jpg
-ebay_id: 233989913244 233925077827
+ebay_id: 233989913244
 ---
 
 

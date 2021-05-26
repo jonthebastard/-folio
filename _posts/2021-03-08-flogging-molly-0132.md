@@ -4,7 +4,7 @@ title: "FLOGGING MOLLY"
 description: "MEDIUM | 100% Preshrunk Combed Ringspun Cotton | Tultex"
 date: 2021-03-08
 img: /img/0132-flogging-molly.jpg
-ebay_id: 233989913191 233925077801
+ebay_id: 233989913191
 ---
 
 

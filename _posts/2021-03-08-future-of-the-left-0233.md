@@ -4,7 +4,7 @@ title: "FUTURE OF THE LEFT"
 description: "SMALL | 100% Preshrunk Ringspun Cotton | Tultex"
 date: 2021-03-08
 img: /img/0233-future-of-the-left.jpg
-ebay_id: 233989913313 233925077931
+ebay_id: 233989913313
 ---
 
 

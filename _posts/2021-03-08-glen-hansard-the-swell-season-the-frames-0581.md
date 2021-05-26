@@ -4,7 +4,7 @@ title: "GLEN HANSARD (THE SWELL SEASON / THE FRAMES)"
 description: "SMALL | 50% Polyester / 25% Cotton / 25% Rayon | Canvas"
 date: 2021-03-08
 img: /img/0581-glen-hansard-the-swell-season-the-frames.jpg
-ebay_id: 233989913619 233925078422
+ebay_id: 233989913619
 ---
 
 

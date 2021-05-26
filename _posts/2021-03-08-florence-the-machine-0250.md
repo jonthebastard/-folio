@@ -4,7 +4,7 @@ title: "FLORENCE + THE MACHINE"
 description: "MEDIUM | 100% Preshrunk Cotton | Gildan"
 date: 2021-03-08
 img: /img/0250-florence-the-machine.jpg
-ebay_id: 233989913323 233925077972
+ebay_id: 233989913323
 ---
 
 

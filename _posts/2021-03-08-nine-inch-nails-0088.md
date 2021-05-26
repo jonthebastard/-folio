@@ -4,7 +4,7 @@ title: "NINE INCH NAILS"
 description: "LARGE | 100% Cotton"
 date: 2021-03-08
 img: /img/0088-nine-inch-nails.jpg
-ebay_id: 233989913193 233925077675
+ebay_id: 233989913193
 ---
 
 

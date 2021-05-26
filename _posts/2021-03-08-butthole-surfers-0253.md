@@ -4,7 +4,7 @@ title: "BUTTHOLE SURFERS"
 description: "SMALL | 100% Preshrunk Cotton | Gildan"
 date: 2021-03-08
 img: /img/0253-butthole-surfers.jpg
-ebay_id: 233989913320 233925077960
+ebay_id: 233989913320
 ---
 
 

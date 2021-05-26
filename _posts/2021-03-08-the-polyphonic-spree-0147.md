@@ -4,7 +4,7 @@ title: "THE POLYPHONIC SPREE"
 description: "LARGE | 100% Cotton | Alternative Apparel"
 date: 2021-03-08
 img: /img/0147-the-polyphonic-spree.jpg
-ebay_id: 233989913223 233925077805
+ebay_id: 233989913223
 ---
 
 

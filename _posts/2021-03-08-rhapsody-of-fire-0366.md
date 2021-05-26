@@ -4,7 +4,7 @@ title: "RHAPSODY OF FIRE"
 description: "XLARGE | Preshrunk 100% Cotton | Anvil"
 date: 2021-03-08
 img: /img/0366-rhapsody-of-fire.jpg
-ebay_id: 233989913423 233925078112
+ebay_id: 233989913423
 ---
 
 

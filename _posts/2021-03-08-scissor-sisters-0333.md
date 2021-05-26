@@ -4,7 +4,7 @@ title: "SCISSOR SISTERS"
 description: "MEDIUM | 100% Combed Cotton | American Apparel"
 date: 2021-03-08
 img: /img/0333-scissor-sisters.jpg
-ebay_id: 233989913407 233925078063
+ebay_id: 233989913407
 ---
 
 

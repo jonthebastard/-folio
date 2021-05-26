@@ -4,7 +4,7 @@ title: "RODRIGO Y GABRIELA"
 description: "SMALL | 52% Cotton / 48% Polyester | Canvas"
 date: 2021-03-08
 img: /img/0482-rodrigo-y-gabriela.jpg
-ebay_id: 233989913546 233925078281
+ebay_id: 233989913546
 ---
 
 

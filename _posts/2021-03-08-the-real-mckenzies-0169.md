@@ -4,7 +4,7 @@ title: "THE REAL MCKENZIES"
 description: "LARGE | 100% Preshrunk Cotton | Anvil"
 date: 2021-03-08
 img: /img/0169-the-real-mckenzies.jpg
-ebay_id: 233989913219 233925077838
+ebay_id: 233989913219
 ---
 
 

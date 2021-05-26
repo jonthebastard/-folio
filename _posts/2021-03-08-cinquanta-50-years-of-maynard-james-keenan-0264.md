@@ -4,7 +4,7 @@ title: "CINQUANTA: 50 YEARS OF MAYNARD JAMES KEENAN"
 description: "SMALL | Preshrunk 100% Ringspun Cotton | Tultex"
 date: 2021-03-08
 img: /img/0264-cinquanta-50-years-of-maynard-james-keenan.jpg
-ebay_id: 233989913330 233925077973
+ebay_id: 233989913330
 ---
 
 

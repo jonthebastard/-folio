@@ -4,7 +4,7 @@ title: "AMANDA PALMER AND THE GRAND THEFT ORCHESTRA"
 description: "MEDIUM | Unlisted (cotton/blend)/A | Hanes"
 date: 2021-03-08
 img: /img/0461-amanda-palmer-and-the-grand-theft-orchestra.jpg
-ebay_id: 233989913520 233925078253
+ebay_id: 233989913520
 ---
 
 

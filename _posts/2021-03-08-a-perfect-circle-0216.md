@@ -4,7 +4,7 @@ title: "A PERFECT CIRCLE"
 description: "MEDIUM | 100% Cotton | Bay Island Sportswear"
 date: 2021-03-08
 img: /img/0216-a-perfect-circle.jpg
-ebay_id: 233989913288 233925077904
+ebay_id: 233989913288
 ---
 
 

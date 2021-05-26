@@ -4,7 +4,7 @@ title: "THE SWELL SEASON"
 description: "LARGE | 100% Combed Cotton | American Apparel"
 date: 2021-03-08
 img: /img/0096-the-swell-season.jpg
-ebay_id: 233989913103 233925077711
+ebay_id: 233989913103
 ---
 
 

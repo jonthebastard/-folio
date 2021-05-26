@@ -4,7 +4,7 @@ title: "THE POLYPHONIC SPREE"
 description: "LARGE | 100% Combed Cotton | American Apparel"
 date: 2021-03-08
 img: /img/0534-the-polyphonic-spree.jpg
-ebay_id: 233989913587 233925078349
+ebay_id: 233989913587
 ---
 
 

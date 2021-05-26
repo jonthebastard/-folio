@@ -4,7 +4,7 @@ title: "STRAWBERRY GIRLS"
 description: "SMALL | 100% Ringspun Cotton | Tultex"
 date: 2021-03-08
 img: /img/0199-strawberry-girls.jpg
-ebay_id: 233989913265 233925077876
+ebay_id: 233989913265
 ---
 
 

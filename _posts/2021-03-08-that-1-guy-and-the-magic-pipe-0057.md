@@ -4,7 +4,7 @@ title: "THAT 1 GUY AND THE MAGIC PIPE"
 description: "MEDIUM | 100% Combed Cotton | American Apparel"
 date: 2021-03-08
 img: /img/0057-that-1-guy-and-the-magic-pipe.jpg
-ebay_id: 233989913185 233925077678
+ebay_id: 233989913185
 ---
 
 

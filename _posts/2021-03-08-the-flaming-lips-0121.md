@@ -4,7 +4,7 @@ title: "THE FLAMING LIPS"
 description: "MEDIUM | 100% Cotton"
 date: 2021-03-08
 img: /img/0121-the-flaming-lips.jpg
-ebay_id: 233989913141 233925077736
+ebay_id: 233989913141
 ---
 
 

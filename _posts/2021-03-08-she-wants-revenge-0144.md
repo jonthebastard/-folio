@@ -4,7 +4,7 @@ title: "SHE WANTS REVENGE"
 description: "LARGE | 100% Cotton | Nylon vs. LNA"
 date: 2021-03-08
 img: /img/0144-she-wants-revenge.jpg
-ebay_id: 233989913209 233925077815
+ebay_id: 233989913209
 ---
 
 

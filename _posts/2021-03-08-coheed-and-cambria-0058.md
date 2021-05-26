@@ -4,7 +4,7 @@ title: "COHEED AND CAMBRIA"
 description: "LARGE | 100% Preshrunk Cotton | Hanes"
 date: 2021-03-08
 img: /img/0058-coheed-and-cambria.jpg
-ebay_id: 233989913121 233925077745
+ebay_id: 233989913121
 ---
 
 

@@ -4,7 +4,7 @@ title: "WALK OFF THE EARTH"
 description: "MEDIUM | 50% Cotton/50% Polyester | Bay Island Sportswear"
 date: 2021-03-08
 img: /img/0386-walk-off-the-earth.jpg
-ebay_id: 233989913450 233925078143
+ebay_id: 233989913450
 ---
 
 

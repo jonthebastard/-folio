@@ -4,7 +4,7 @@ title: "THE CRYSTAL METHOD"
 description: "SMALL | Unlisted (cotton/blend) | YST"
 date: 2021-03-08
 img: /img/0167-the-crystal-method.jpg
-ebay_id: 233989913230 233925077839
+ebay_id: 233989913230
 ---
 
 

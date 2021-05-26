@@ -4,7 +4,7 @@ title: "INFECTED MUSHROOM"
 description: "MEDIUM | Unlisted (cotton/blend) | Plazma"
 date: 2021-03-08
 img: /img/0024-infected-mushroom.jpg
-ebay_id: 233989913108 233925077683
+ebay_id: 233989913108
 ---
 
 

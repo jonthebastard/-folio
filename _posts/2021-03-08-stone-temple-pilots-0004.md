@@ -4,7 +4,7 @@ title: "STONE TEMPLE PILOTS"
 description: "LARGE | 100% Cotton | Anvil"
 date: 2021-03-08
 img: /img/0004-stone-temple-pilots.jpg
-ebay_id: 233989913092 233925077774
+ebay_id: 233989913092
 ---
 
 

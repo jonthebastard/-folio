@@ -4,7 +4,7 @@ title: "THE SMASHING PUMPKINS"
 description: "LARGE | 100% Cotton | Drifter"
 date: 2021-03-08
 img: /img/0101-the-smashing-pumpkins.jpg
-ebay_id: 233989913157 233925077766
+ebay_id: 233989913157
 ---
 
 

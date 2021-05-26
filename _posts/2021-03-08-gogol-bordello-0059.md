@@ -4,7 +4,7 @@ title: "GOGOL BORDELLO"
 description: "LARGE | 100% Cotton | Fruit of the Loom"
 date: 2021-03-08
 img: /img/0059-gogol-bordello.jpg
-ebay_id: 233989913183 233925077710
+ebay_id: 233989913183
 ---
 
 

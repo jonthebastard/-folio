@@ -4,7 +4,7 @@ title: "KILLSWITCH ENGAGE"
 description: "SMALL | 100% Preshrunk Cotton | Gildan"
 date: 2021-03-08
 img: /img/0006-killswitch-engage.jpg
-ebay_id: 233989913095 233925077694
+ebay_id: 233989913095
 ---
 
 

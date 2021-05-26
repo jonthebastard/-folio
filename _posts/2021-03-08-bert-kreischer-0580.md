@@ -4,7 +4,7 @@ title: "BERT KREISCHER"
 description: "SMALL | 90% Cotton / 10% Polyester | Gildan"
 date: 2021-03-08
 img: /img/0580-bert-kreischer.jpg
-ebay_id: 233989913634 233925078410
+ebay_id: 233989913634
 ---
 
 

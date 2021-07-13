@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -e pipefail
+set -euo pipefail
 
 git_current_branch () {
   local REF

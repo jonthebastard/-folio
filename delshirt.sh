@@ -1,5 +1,19 @@
 #!/bin/bash
 
+set -e pipefail
+
+git_current_branch () {
+  local REF
+  REF=$(git symbolic-ref --quiet HEAD 2>/dev/null)
+  local RET=$?
+  if [[ $RET != 0 ]]
+  then
+    [[ $RET == 128 ]] && return
+    REF=$(git rev-parse --short HEAD 2>/dev/null)  || return
+  fi
+  echo ${REF#refs/heads/}
+}
+
 for NUMBER in "$@" ; do
   IMAGE=$(find img -name "*${NUMBER}*")
   POST=$(find _posts -name "*${NUMBER}*")
@@ -18,4 +32,4 @@ for NUMBER in "$@" ; do
   fi
 done
 
-git push origin master
+git push origin $(git_current_branch)
